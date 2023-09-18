@@ -1,6 +1,4 @@
-export const NYSEPath = './NYSE.txt';
-export const portfolioPath = './Portfolio.txt';
-const privateAPIURL = 'http://127.0.0.1:3001/api/stockData?symbol=';
+import { NYSEPath, portfolioPath, privateAPIURL, abcDict } from "./constants";
 
 const sendRequest = (path: string) => {
   return fetch(path);
@@ -14,17 +12,30 @@ export const readCSVToArray = async (path: string) => {
     const lines = data.split('\n');
     const result: TickerSelect[] = [];
 
-    lines.forEach((line) => {
-      const lineArray = line.split('\t');
-      const ticker = lineArray[0];
-      result.push({ value: ticker, label: ticker });
-    });
+    if (lines.length > 50) {
+      lines.forEach((line) => {
+        const lineArray = line.split('\t');
+        const ticker = lineArray[0];
+        const firstLetter = ticker[0];
+        abcDict[firstLetter].push({ value: ticker, label: ticker });
+      });
 
-    return result;
+      return abcDict;
+
+    } else {
+      lines.forEach((line) => {
+        const lineArray = line.split('\t');
+        const ticker = lineArray[0];
+        result.push({ value: ticker, label: ticker });
+      });
+
+      return result;
+    }
 
   } catch (err: any) {
     console.warn(err);
-    return [err.message()];
+    console.log(err.message);
+    return [err.message];
   }
 };
 

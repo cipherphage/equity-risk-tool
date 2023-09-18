@@ -4,8 +4,11 @@
 
 - *Work in progress, not yet functioning
 - Utilize Alpha Vantage Stock Market API to fetch stock data.
+  - Note: the following rate limits apply:
+    - Up to 5 API requests per minute.
+    - Up to 100 API requests per day.
 - Perform quantitative analysis on the data to determine stocks that fit my long term investment profile.
-- Current use case for this app is personal use, running in terminal using `npm start` and `npm run start:server`.
+- Current use case for this app is personal use, servers running in terminal using `npm start` and `npm run start:server`.
 
 ## Built Using
 

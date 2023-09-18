@@ -5,6 +5,10 @@ type TickerSelect = {
   label: string;
 }
 
+type BigTickerObject = {
+  [key: string]: TickerSelect[];
+}
+
 type StockOverview = {
   'Symbol': string;
   AssetType: string;
