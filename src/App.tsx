@@ -1,41 +1,43 @@
-import { BaseSyntheticEvent, KeyboardEvent, useState } from 'react';
-import Select, { SingleValue } from 'react-select';
+import { BaseSyntheticEvent, KeyboardEvent, ReactEventHandler, useState } from 'react';
+import Select, { ActionMeta, InputActionMeta, Options, SelectOptionActionMeta, SingleValue } from 'react-select';
 import logo from './logo.svg';
 import './App.css';
-import { callStockAPI, readCSVToArray } from './utils/api';
+import { callStockAPI, readCSVToArray, readCSVToDict } from './utils/api';
 import { NYSEPath } from './utils/constants';
 import SingleStockData from './ui/SingleStockData';
 
 function App() {
   const [toAnalyze, setToAnalyze] = useState({} as StockOverview);
   const [portfolio, setPortfolio] = useState([] as StockOverview[]);
-  const [NYSEList, setNYSEList] = useState({} as BigTickerObject);
+  const [NYSEDict, setNYSEDict] = useState({} as BigTickerObject);
   const [isDisabled, setIsDisabled] = useState(true);
   const [testData, setTestData] = useState([] as JSX.Element[]);
   const [apiTracker, setApiTracker] = useState({reqsDone:0,reqsAllowed:100,reqsLeft:100});
   const [NYSEOptions, SetNYSEOptions] = useState([] as TickerSelect[]);
 
-  const initNSYEList = async () => {
-    const list = await readCSVToArray(NYSEPath);
-    if (!Array.isArray(list)) {
-      setNYSEList(list);
-      SetNYSEOptions(list.A);
-      setIsDisabled(false);
-    }
+  const initNSYEDict = async () => {
+    const list = await readCSVToDict(NYSEPath);
+    setNYSEDict(list);
+    SetNYSEOptions(list.A);
+    setIsDisabled(false);
   };
 
-  const sendSymbol = async (sym: string | undefined) => {
-    if (sym) {
+  const sendSymbol = async (selected: SingleValue<TickerSelect>, actionMeta: ActionMeta<TickerSelect>) => {
+    // TODO check sym is a letter A through Z
+    const sym = selected?.value;
+
+    if (sym && actionMeta.action === 'select-option') {
+      console.log(`Fetching company overview for ${sym}!`);
       const stockData = await callStockAPI(sym);
       setToAnalyze(stockData);
     }
   };
 
-  const optionsChecker = (e: any) => {
-    const sym = e?.target?.value;
+  const optionsChecker = (sym: string, { action }: InputActionMeta) => {
     if (sym) {
+      console.log(`Got sym: ${sym}!`);
       // TODO check sym is a letter A through Z
-      SetNYSEOptions(NYSEList[sym[0]]);
+      SetNYSEOptions(NYSEDict[sym[0]]);
     }
   };
 
@@ -48,7 +50,7 @@ function App() {
         </h2>
       </header>
       <section>
-        <button onClick={initNSYEList}>Analyze a stock</button>
+        <button onClick={initNSYEDict}>Analyze a stock</button>
       </section>
       <section>
         <h2>Stock Analyzer</h2>
@@ -61,7 +63,8 @@ function App() {
           isClearable={true} 
           isSearchable={true}
           name="ticker"
-          onKeyDown={optionsChecker}
+          onInputChange={optionsChecker}
+          onChange={sendSymbol}
           options={NYSEOptions} 
         />
         <SingleStockData singleStockData={toAnalyze}/>

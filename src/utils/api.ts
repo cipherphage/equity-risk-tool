@@ -1,42 +1,35 @@
 import { NYSEPath, portfolioPath, privateAPIURL, abcDict } from "./constants";
+import { getTickerSelectArrayFromCSVLines, getTickerSelectDictFromCSVLines } from "./csvProcessing";
 
 const sendRequest = (path: string) => {
   return fetch(path);
 };
 
-// converts csv file of stock symbols into string[]
-export const readCSVToArray = async (path: string) => {
+export const readCSVToArrayOfLines = async (path: string) => {
   try {
     const res = await sendRequest(path);
     const data = await res.text();
     const lines = data.split('\n');
-    const result: TickerSelect[] = [];
-
-    if (lines.length > 50) {
-      lines.forEach((line) => {
-        const lineArray = line.split('\t');
-        const ticker = lineArray[0];
-        const firstLetter = ticker[0];
-        abcDict[firstLetter].push({ value: ticker, label: ticker });
-      });
-
-      return abcDict;
-
-    } else {
-      lines.forEach((line) => {
-        const lineArray = line.split('\t');
-        const ticker = lineArray[0];
-        result.push({ value: ticker, label: ticker });
-      });
-
-      return result;
-    }
+    return lines;
 
   } catch (err: any) {
     console.warn(err);
-    console.log(err.message);
     return [err.message];
   }
+};
+
+export const readCSVToDict = async (path: string) => {
+  const lines = await readCSVToArrayOfLines(path);
+  const tickerDict = getTickerSelectDictFromCSVLines(lines);
+  return tickerDict;
+};
+
+// converts csv file of stock symbols into string[]
+export const readCSVToArray = async (path: string) => {
+  const lines = await readCSVToArrayOfLines(path);
+  const tickerArray = getTickerSelectArrayFromCSVLines(lines);
+
+  return tickerArray;
 };
 
 export const callStockAPI = async (sym: string) => {
