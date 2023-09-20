@@ -57,3 +57,7 @@ type StockOverview = {
   DividendDate: string;
   ExDividendDate: string;
 }
+
+type TestDict = {
+  [key: string]: string;
+}

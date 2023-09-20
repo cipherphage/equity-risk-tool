@@ -33,7 +33,7 @@ function App() {
     }
   };
 
-  const optionsChecker = (sym: string, { action }: InputActionMeta) => {
+  const optionsChecker = (sym: string) => {
     if (sym) {
       console.log(`Got sym: ${sym}!`);
       // TODO check sym is a letter A through Z
@@ -58,7 +58,6 @@ function App() {
           id="a" 
           className="basic-single"
           classNamePrefix="select"
-          //defaultValue={}
           isDisabled={isDisabled}
           isClearable={true} 
           isSearchable={true}

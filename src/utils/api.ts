@@ -5,6 +5,7 @@ const sendRequest = (path: string) => {
   return fetch(path);
 };
 
+// array is sorted alphabetically if CSV is sorted
 export const readCSVToArrayOfLines = async (path: string) => {
   try {
     const res = await sendRequest(path);
@@ -18,6 +19,7 @@ export const readCSVToArrayOfLines = async (path: string) => {
   }
 };
 
+// sub-arrays are sorted alphabetically if CSV is sorted
 export const readCSVToDict = async (path: string) => {
   const lines = await readCSVToArrayOfLines(path);
   const tickerDict = getTickerSelectDictFromCSVLines(lines);
