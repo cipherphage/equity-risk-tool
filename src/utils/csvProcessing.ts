@@ -3,11 +3,12 @@ import { abcDict } from "./constants";
 export const getUpperCasedString = (str: string) => ( str.toUpperCase() );
 
 export const getValidTicker = (ticker: string) => {
+  // leading with most common case
   if (/^[A-Z]+$/.test(ticker)) {
-    return ticker;
-  
-  } else if (/^[a-zA-Z]+$/.test(ticker)) {
     
+    return ticker;
+  } else if (/^[a-zA-Z]+$/.test(ticker)) {
+
     return getUpperCasedString(ticker);
   } else {
 

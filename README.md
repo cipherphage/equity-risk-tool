@@ -13,6 +13,7 @@
 ## Built Using
 
 - Alpha Vantage Stock Market API: [https://www.alphavantage.co/](https://www.alphavantage.co/).
+- Correlation Rank NPM package (a simple package to calculate correlation coefficient): [https://github.com/robotomize/correlation-rank.js](https://github.com/robotomize/correlation-rank.js).
 - Create React App: [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app).
   - Important note about Create React App as of July 2023: [https://github.com/facebook/create-react-app/issues/13080#issuecomment-1618998426] (https://github.com/facebook/create-react-app/issues/13080#issuecomment-1618998426).
 - React-Select component library: [https://react-select.com/home](https://react-select.com/home).
