@@ -1,5 +1,5 @@
-export const NYSEPath = './NYSE.txt';
-export const portfolioPath = './Portfolio.txt';
+export const NYSEPath = './NYSE.csv';
+export const portfolioPath = './Portfolio.csv';
 export const privateAPIURL = 'http://127.0.0.1:3001/api/stockData?symbol=';
 
 export const abcDict: BigTickerObject = {
