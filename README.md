@@ -20,6 +20,7 @@
 - ExpressJS Node server middleware: [https://expressjs.com/](https://expressjs.com/).
   - Note that to compile and run the server I ran into this issue: [https://stackoverflow.com/a/74921691/4018331](https://stackoverflow.com/a/74921691/4018331) and ended up following this recommendation: [https://github.com/wclr/ts-node-dev/issues/314#issuecomment-1243067589] (https://github.com/wclr/ts-node-dev/issues/314#issuecomment-1243067589) and using `ts-node` with `nodemon`.
 - Note regarding the backend: I may switch to Python/Flask so I can more easily incorporate Hedgecraft, an open-source portfolio selection algorithm: [https://github.com/mayabenowitz/Hedgecraft](https://github.com/mayabenowitz/Hedgecraft).
+- Note regarding data: some of the lists of tickers were exported as CSV from here: [https://www.eoddata.com](https://www.eoddata.com).
 
 ## Running the app:
 
