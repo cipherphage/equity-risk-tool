@@ -1,0 +1,2802 @@
+ADDA.IDX	AMEX Advance Decline Difference
+ADDC.IDX	CSE Advance Decline Difference
+ADDE.IDX	ETFS Advance Decline Difference
+ADDN.IDX	NYSE Advance Decline Difference
+ADDQ.IDX	NASD Advance Decline Difference
+ADDS.IDX	TSX Advance Decline Difference
+ADDT.IDX	Total Advance Decline Difference
+ADDU.IDX	OTC US Advance Decline Difference
+ADDV.IDX	TSXV Advance Decline Difference
+ADDX.IDX	CAD Total Advance Decline Difference
+ADRA.IDX	AMEX Advance Decline Ratio
+ADRC.IDX	CSE Advance Decline Ratio
+ADRE.IDX	ETFS Advance Decline Ratio
+ADRN.IDX	NYSE Advance Decline Ratio
+ADRQ.IDX	NASD Advance Decline Ratio
+ADRS.IDX	TSX Advance Decline Ratio
+ADRT.IDX	Total Advance Decline Ratio
+ADRU.IDX	OTC US Advance Decline Ratio
+ADRV.IDX	TSXV Advance Decline Ratio
+ADRX.IDX	CAD Total Advance Decline Ratio
+ADVA.IDX	AMEX Advancing Stocks
+ADVC.IDX	CSE Advancing Stocks
+ADVE.IDX	ETFS Advancing Stocks
+ADVN.IDX	NYSE Advancing Stocks
+ADVQ.IDX	NASD Advancing Stocks
+ADVS.IDX	TSX Advancing Stocks
+ADVT.IDX	Total Advancing Stocks
+ADVU.IDX	OTC US Advancing Stocks
+ADVV.IDX	TSXV Advancing Stocks
+ADVX.IDX	CAD Total Advancing Stocks
+AEX.IDX	AEX General - Netherlands
+AMX.IDX	Amsterdam Midkap Index
+AORD.IDX	All Ordinaries Index
+ASHD.IDX	AMEX Declining Stocks
+ASHF.IDX	AMEX Advances - Declines
+ASHR.IDX	AMEX Advance Decline Ratio
+ASHU.IDX	AMEX Advancing Stocks
+ATX.IDX	ATX - Austria
+AVDA.IDX	AMEX Advances Declines Volume Difference
+AVDC.IDX	CSE Advance Decline Volume Difference
+AVDE.IDX	ETFS Advances Declines Volume Difference
+AVDN.IDX	NYSE Advances Declines Volume Difference
+AVDQ.IDX	NASD Advances Declines Volume Difference
+AVDS.IDX	TSX Advance Decline Volume Difference
+AVDT.IDX	Total Advances Declines Volume Difference
+AVDU.IDX	OTC US Advance Decline Volume Difference
+AVDV.IDX	TSXV Advance Decline Volume Difference
+AVDX.IDX	CAD Total Advance Decline Volume Difference
+AVLD.IDX	AMEX Declining Volume
+AVLF.IDX	AMEX Advance Decline Volume Difference
+AVLR.IDX	AMEX Advance Decline Vol Ratio
+AVLU.IDX	AMEX Advancing Volume
+AVRA.IDX	AMEX Advance Decline Volume Ratio
+AVRC.IDX	CSE Advance Decline Volume Ratio
+AVRE.IDX	ETFS Advance Decline Volume Ratio
+AVRN.IDX	NYSE Advance Decline Volume Ratio
+AVRQ.IDX	NASD Advance Decline Volume Ratio
+AVRS.IDX	TSX Advance Decline Volume Ratio
+AVRT.IDX	Total Advance Decline Volume Ratio
+AVRU.IDX	OTC US Advance Decline Volume Ratio
+AVRV.IDX	TSXV Advance Decline Volume Ratio
+AVRX.IDX	CAD Total Advance Decline Volume Ratio
+AVVA.IDX	AMEX Advancing Volume
+AVVC.IDX	CSE Advancing Volume
+AVVE.IDX	ETFS Advancing Volume
+AVVN.IDX	NYSE Advancing Volume
+AVVQ.IDX	NASD Advancing Volume
+AVVS.IDX	TSX Advancing Volume
+AVVT.IDX	Total Advancing Volume
+AVVU.IDX	OTC US Advancing Volume
+AVVV.IDX	TSXV Advancing Volume
+AVVX.IDX	CAD Total Advancing Volume
+AXJO.IDX	Asx 200 Index
+BANK.IDX	Nasdaq Bank
+BCMA.IDX	Barchart Market Momentum Index Advances
+BCMC.IDX	Barchart TSX Market Momentum Index
+BCMD.IDX	Barchart Market Momentum Index Declines
+BCME.IDX	Barchart TSX Market Momentum Index Advances
+BCMF.IDX	Barchart TSX Market Momentum Index Declines
+BCMG.IDX	Barchart TSX Market Momentum Index Unch
+BCMM.IDX	Barchart Market Momentum Index
+BCMU.IDX	Barchart Market Momentum Index Unch
+BDMA.IDX	Barchart Market Momentum Advances Yesterday
+BDMC.IDX	Barchart TSX Market Momentum Yesterday
+BDMD.IDX	Barchart Market Momentum Declines Yesterday
+BDME.IDX	Barchart TSX Market Momentum Advances Yesterday
+BDMF.IDX	Barchart TSX Market Momentum Declines Yesterday
+BDMG.IDX	Barchart TSX Market Momentum Unch Yesterday
+BDMM.IDX	Barchart Market Momentum Yesterday
+BDMU.IDX	Barchart Market Momentum Unch Yesterday
+BEL.IDX	Bel 20 Index
+BFMA.IDX	Barchart Market Momentum Advances Last Week
+BFMC.IDX	Barchart TSX Market Momentum Last Week
+BFMD.IDX	Barchart Market Momentum Declines Last Week
+BFME.IDX	Barchart TSX Market Momentum Advances Last Week
+BFMF.IDX	Barchart TSX Market Momentum Declines Last Week
+BFMG.IDX	Barchart TSX Market Momentum Unch Last Week
+BFMM.IDX	Barchart Market Momentum Last Week
+BFMU.IDX	Barchart Market Momentum Unch Last Week
+BGMA.IDX	Barchart Market Momentum Advances Last Month
+BGMC.IDX	Barchart TSX Market Momentum Last Month
+BGMD.IDX	Barchart Market Momentum Declines Last Month
+BGME.IDX	Barchart TSX Market Momentum Advances Last Month
+BGMF.IDX	Barchart TSX Market Momentum Declines Last Month
+BGMG.IDX	Barchart TSX Market Momentum Unch Last Month
+BGMM.IDX	Barchart Market Momentum Last Month
+BGMU.IDX	Barchart Market Momentum Unch Last Month
+BKX.IDX	KBW Bank Index
+BTK.IDX	AMEX Biotechnology Index
+BUX.IDX	B2B Internet Holdrs Index
+BVSP.IDX	Bovespa - Brazil
+BWH.IDX	POWERSHARES WILDERHILL CLEAN EN
+CAC.IDX	CAC 40 Index
+CASH.IDX	Cash $1
+COMP.IDX	Nasdaq Composite
+CPC.IDX	Total Put/Call Ratio
+CPCB.IDX	Bond Put/Call Ratio
+CPCI.IDX	Index Put/Call Ratio
+CPCS.IDX	Equity Put/Call Ratio
+CSE.IDX	CSE 25 Index
+CYM.IDX	Claymore Yield ETF Iopv
+DAX.IDX	Frankfurt Dax
+DCFD.IDX	Dow Comp Stocks Above 5-Day Average
+DCFI.IDX	Dow Comp Stocks Above 50-Day Average
+DCOF.IDX	Dow Comp Stocks Above 150-Day Average
+DCOH.IDX	Dow Comp Stocks Above 100-Day Average
+DCSE.IDX	Djw US Semiconductor
+DCTH.IDX	Dow Comp Stocks Above 200-Day Average
+DCTW.IDX	Dow Comp Stocks Above 20-Day Average
+DECA.IDX	AMEX Declining Stocks
+DECC.IDX	CSE Declining Stocks
+DECE.IDX	ETFS Declining Stocks
+DECN.IDX	NYSE Declining Stocks
+DECQ.IDX	NASD Declining Stocks
+DECS.IDX	TSX Declining Stocks
+DECT.IDX	Total Declining Stocks
+DECU.IDX	OTC US Declining Stocks
+DECV.IDX	TSXV Declining Stocks
+DECX.IDX	CAD Total Declining Stocks
+DIFD.IDX	Dow Indu Stocks Above 5-Day Average
+DIFI.IDX	Dow Indu Stocks Above 50-Day Average
+DIOF.IDX	Dow Indu Stocks Above 150-Day Average
+DIOH.IDX	Dow Indu Stocks Above 100-Day Average
+DITH.IDX	Dow Indu Stocks Above 200-Day Average
+DITW.IDX	Dow Indu Stocks Above 20-Day Average
+DJC.IDX	Dow Jones Composite Average
+DJEC.IDX	DJ INTERNET COMMERCE IND
+DJI.IDX	DJ Industrial Average
+DJT.IDX	DJ Transport Average
+DJU.IDX	DJ Utility Average
+DJWO.IDX	DJ WORLD STOCK INDEX
+DLTC.IDX	U.S. Large-Cap Technology Index
+DOWE.IDX	INDUSTRIALS EU$
+DRCI.IDX	DJ COMPREIT
+DREI.IDX	DJ EQUITYREIT
+DSAE.IDX	DJ US AERODEF
+DSAF.IDX	DJ US DELIVRYSRV
+DSAG.IDX	DJ US ASSETMNG
+DSAI.IDX	DJ US ELECEQUIP
+DSAL.IDX	DJ US ALUMINUM
+DSAM.IDX	DJ US MEDEQUIP
+DSAP.IDX	DJ US AUTOPARTS
+DSAR.IDX	DJ US AIRLINES
+DSAS.IDX	DJ US AEROSPACE
+DSAT.IDX	DJ US AUTOPARTS
+DSAU.IDX	DJ US AUTOMOBILE
+DSAV.IDX	DJ US MEDIAAGN
+DSBC.IDX	DJ US BRDCASTENT
+DSBD.IDX	DJ US BLDGMATFIX
+DSBE.IDX	DJ US BSTRNGEMP
+DSBK.IDX	DJ US BANKS
+DSBM.IDX	DJ US BASICMAT
+DSBS.IDX	DJ US BSCRSRCES
+DSBT.IDX	DJ US BIOTECHNO
+DSBV.IDX	DJ US BEVERAGES
+DSCA.IDX	DJ US GAMBLING
+DSCC.IDX	DJ US COMMCHEM
+DSCF.IDX	DJ US CLOTHACCSS
+DSCG.IDX	DJ US TRAVLEIS
+DSCH.IDX	DJ US CHEMICALS
+DSCM.IDX	DJ US PERSPROD
+DSCN.IDX	DJ US CONSMATRLS
+DSCP.IDX	DJ US CTNRS&PKNG
+DSCR.IDX	DJ US CMPTRHRDWR
+DSCS.IDX	DJ US SPLTYCNSRV
+DSCT.IDX	DJ US SEMICONDTR
+DSCX.IDX	DJ US SPCLTYCHEM
+DSCY.IDX	DJ US CONSUMSRV
+DSDB.IDX	DJ US BREWERS
+DSDN.IDX	DJ US DEFENSE
+DSDR.IDX	DJ US FDDRGRET
+DSDS.IDX	DJ US INSUPPLIER
+DSDT.IDX	U.S. Diversified REITs Index
+DSDV.IDX	DJ US CMPTRSRV
+DSEC.IDX	DJ US ELCCOMPEQP
+DSEE.IDX	DJ US ELECEQUP
+DSEH.IDX	U.S. Real Estate Holding & Development Index
+DSEN.IDX	DJ US OIL&GAS
+DSES.IDX	U.S. Real Estate Services Index
+DSEU.IDX	DJ US ELECTRCTY
+DSFA.IDX	DJ US FINADMIN
+DSFB.IDX	DJ US FOOD&BEV
+DSFC.IDX	DJ US FXLNTELCM
+DSFD.IDX	DJ US FOODRTWHSL
+DSFE.IDX	DJ US INDUSTMACH
+DSFH.IDX	DJ US FURNISHNG
+DSFI.IDX	DJ US FINCLSRV
+DSFN.IDX	DJ US FINANCIALS
+DSFO.IDX	DJ US FOODPRODRS
+DSFP.IDX	DJ US FOODPRDCTS
+DSFT.IDX	DJ US FOOTWEAR
+DSFV.IDX	U.S. Financial Services Index
+DSGF.IDX	DJ US GENFINAN
+DSGI.IDX	DJ US GENINDUST
+DSGT.IDX	DJ US GENRETAIL
+DSGU.IDX	DJ US GASDISTRIB
+DSHB.IDX	DJ US HOMECONS
+DSHC.IDX	DJ US HLTHCARE
+DSHD.IDX	DJ US DURHLDPROD
+DSHG.IDX	DJ US HLDGOODS
+DSHI.IDX	DJ US HMIMPRETL
+DSHL.IDX	U.S. Hotel & Lodging REITs Index
+DSHN.IDX	DJ US NDURHLDPRD
+DSHP.IDX	DJ US HLTHCRPVDR
+DSHR.IDX	DJ US COMRVEHTRK
+DSHV.IDX	DJ US HVYCONS
+DSIB.IDX	DJ US INSBROKERS
+DSID.IDX	DJ US DVSFINDUS
+DSIF.IDX	DJ US FLLINEINS
+DSIG.IDX	DJ US INDGDS&SRV
+DSIL.IDX	DJ US LIFEINSUR
+DSIM.IDX	DJ US INDMETALS
+DSIN.IDX	DJ US INDSTRIALS
+DSIO.IDX	U.S. Industrial & Office REITs Index
+DSIP.IDX	DJ US PROPCASINS
+DSIQ.IDX	DJ US INDSTENGNG
+DSIR.IDX	DJ US INSURANCE
+DSIS.IDX	DJ US SUPPORTSRV
+DSIT.IDX	DJ US INDSTTRANS
+DSIU.IDX	DJ US REINSURAN
+DSIV.IDX	DJ US BUSSUPSRV
+DSIX.IDX	DJ US NLIFEINSUR
+DSLE.IDX	DJ US LEISGOODS
+DSLG.IDX	DJ US HOTELS
+DSLW.IDX	DJ US LOWCAP
+DSMC.IDX	DJ US HCREQPSRV
+DSME.IDX	DJ US MEDIA
+DSMF.IDX	DJ US MORTGFIN
+DSMG.IDX	DJ US MINING
+DSMR.IDX	U.S. Mortgage REITs Index
+DSMS.IDX	DJ US MDSUPPLIES
+DSMT.IDX	DJ US MARTRANSPT
+DSMU.IDX	DJ US MULUTILTES
+DSNC.IDX	DJ US CONSUMGDS
+DSNF.IDX	DJ US NONFERMET
+DSNG.IDX	DJ US PERHLDGDS
+DSNS.IDX	DJ US INTERNET
+DSOG.IDX	DJ US OILGAS
+DSOI.IDX	DJ US OILEQPSRV
+DSOL.IDX	DJ US INTGOILGAS
+DSOQ.IDX	DJ US OILEQPSRV
+DSOS.IDX	DJ US EXPLPROD
+DSPB.IDX	DJ US PUBLISHING
+DSPC.IDX	DJ US WSTDSPSRV
+DSPG.IDX	DJ US PERSGOODS
+DSPL.IDX	DJ US PIPELINES
+DSPM.IDX	DJ US GOLDMNG
+DSPN.IDX	DJ US PHARMBIO
+DSPR.IDX	DJ US PHARMCTCLS
+DSRA.IDX	DJ US APPRLRET
+DSRB.IDX	DJ US BRDLNRET
+DSRD.IDX	DJ US DRUGRET
+DSRE.IDX	U.S. Real Estate Index
+DSRH.IDX	DJ US RESTHLDG
+DSRI.IDX	DJ US RESTINVTR
+DSRL.IDX	U.S. Retail REITs Index
+DSRN.IDX	U.S. Residential REITs Index
+DSRP.IDX	DJ US RECPRODUCT
+DSRQ.IDX	DJ US RECSERVICE
+DSRR.IDX	DJ US RAILROADS
+DSRS.IDX	DJ US SPLTYRET
+DSRT.IDX	DJ US RETAIL
+DSRU.IDX	DJ US RESTRBARS
+DSSB.IDX	DJ US INVSRV
+DSSC.IDX	DJ US SEMCNDCTRS
+DSSD.IDX	DJ US SOFTDRINKS
+DSSF.IDX	DJ US CONSUMFIN
+DSSP.IDX	DJ US SPECIALFIN
+DSSR.IDX	U.S. Specialty REITs Index
+DSST.IDX	DJ US STEEL
+DSSV.IDX	DJ US SFTCPTRSRV
+DSSW.IDX	DJ US SOFTWARE
+DSTB.IDX	DJ US TOBACCO
+DSTC.IDX	DJ US TECHNOLOGY
+DSTK.IDX	DJ US TRUCKING
+DSTL.IDX	DJ US TELECOM
+DSTP.IDX	DJ US TOPCAP
+DSTQ.IDX	DJ US TECHHRDEQ
+DSTS.IDX	DJ US TRANSSRV
+DSTT.IDX	DJ US TRVLTOUR
+DSTY.IDX	DJ US TOYS
+DSUO.IDX	DJ US GASWTRMUT
+DSUT.IDX	DJ US UTILITIES
+DSVE.IDX	U.S. Conventional Electricity Index
+DSVN.IDX	DJ US DISVINTNER
+DSWC.IDX	DJ US MOBTELECOM
+DSWU.IDX	DJ US WATER
+DTCI.IDX	DJ COMPREIT TR
+DTEI.IDX	DJ EQUITYREIT TR
+DTFD.IDX	Dow Tran Stocks Above 5-Day Average
+DTFI.IDX	Dow Tran Stocks Above 50-Day Average
+DTFX.IDX	CME FX Index
+DTOF.IDX	Dow Tran Stocks Above 150-Day Average
+DTOH.IDX	Dow Tran Stocks Above 100-Day Average
+DTTH.IDX	Dow Tran Stocks Above 200-Day Average
+DTTW.IDX	Dow Tran Stocks Above 20-Day Average
+DTWC.IDX	DJ COMPAVGTR
+DTWI.IDX	DJ INDUS AVG TR
+DTWT.IDX	DJ TRANSAVGTR
+DTWU.IDX	DJ UTILITYAVGTR
+DUBS.IDX	DJ UBS COMMODITY INDEX
+DUFD.IDX	Dow Util Stocks Above 5-Day Average
+DUFI.IDX	Dow Util Stocks Above 50-Day Average
+DUOF.IDX	Dow Util Stocks Above 150-Day Average
+DUOH.IDX	Dow Util Stocks Above 100-Day Average
+DUSL.IDX	DJ US LRGCAP
+DUSM.IDX	DJ US MIDCAP
+DUSS.IDX	DJ US SMLCAP
+DUTH.IDX	Dow Util Stocks Above 200-Day Average
+DUTW.IDX	Dow Util Stocks Above 20-Day Average
+DVCA.IDX	AMEX Declining Volume
+DVCC.IDX	CSE Declining Volume
+DVCE.IDX	ETFS Declining Volume
+DVCN.IDX	NYSE Declining Volume
+DVCQ.IDX	NASD Declining Volume
+DVCS.IDX	TSX Declining Volume
+DVCT.IDX	Total Declining Volume
+DVCU.IDX	OTC US Declining Volume
+DVCV.IDX	TSXV Declining Volume
+DVCX.IDX	CAD Total Declining Volume
+DWCB.IDX	DJ US BANKS TOTAL INDEX
+ESFD.IDX	S&P ESG Stocks Above 5-Day Average
+ESFI.IDX	S&P ESG Stocks Above 50-Day Average
+ESOF.IDX	S&P ESG Stocks Above 150-Day Average
+ESOH.IDX	S&P ESG Stocks Above 100-Day Average
+ESTH.IDX	S&P ESG Stocks Above 200-Day Average
+ESTW.IDX	S&P ESG Stocks Above 20-Day Average
+F1DA.IDX	1-Month Mcap Hi-Lo AMEX
+F1DB.IDX	1-Month Mcap Hi-Lo S&P 500 Materials
+F1DC.IDX	1-Month Mcap Hi-Lo Russell 2000
+F1DF.IDX	1-Month Mcap Hi-Lo S&P 500 Financials
+F1DG.IDX	1-Month Mcap Hi-Lo Russell 1000
+F1DH.IDX	1-Month Mcap Hi-Lo Price GT $10
+F1DI.IDX	1-Month Mcap Hi-Lo S&P 500 Industrials
+F1DJ.IDX	1-Month Mcap Hi-Lo S&P 500 Utilities
+F1DK.IDX	1-Month Mcap Hi-Lo S&P 500 Info Tech
+F1DL.IDX	1-Month Mcap Hi-Lo Price Lt $10
+F1DM.IDX	1-Month Mcap Hi-Lo S&P 500 Consumer Staples
+F1DN.IDX	1-Month Mcap Hi-Lo NYSE
+F1DO.IDX	1-Month Mcap Hi-Lo S&P 100
+F1DP.IDX	1-Month Mcap Hi-Lo S&P 500
+F1DQ.IDX	1-Month Mcap Hi-Lo Nasdaq
+F1DR.IDX	1-Month Mcap Hi-Lo S&P 500 Real Estate
+F1DS.IDX	1-Month Mcap Hi-Lo S&P 500 Health Care
+F1DT.IDX	1-Month Mcap Hi-Lo S&P 500 Energies
+F1DU.IDX	1-Month Mcap Hi-Lo Volume Lt 100K
+F1DV.IDX	1-Month Mcap Hi-Lo Volume GT 100K
+F1DW.IDX	1-Month Mcap Hi-Lo S&P 500 Telecom Srvs
+F1DX.IDX	1-Month Mcap Hi-Lo Overall
+F1DY.IDX	1-Month Mcap Hi-Lo S&P 500 Consumer Disc
+F1DZ.IDX	1-Month Mcap Hi-Lo Russell 3000
+F1HA.IDX	1-Month Mcap Highs AMEX
+F1HB.IDX	1-Month Mcap Highs S&P 500 Materials
+F1HC.IDX	1-Month Mcap Highs Russell 2000
+F1HF.IDX	1-Month Mcap Highs S&P 500 Financials
+F1HG.IDX	1-Month Mcap Highs Russell 1000
+F1HH.IDX	1-Month Mcap Highs Price GT $10
+F1HI.IDX	1-Month Mcap Highs S&P 500 Industrials
+F1HJ.IDX	1-Month Mcap Highs S&P 500 Utilities
+F1HK.IDX	1-Month Mcap Highs S&P 500 Info Tech
+F1HL.IDX	1-Month Mcap Highs Price Lt $10
+F1HM.IDX	1-Month Mcap Highs S&P 500 Consumer Staples
+F1HN.IDX	1-Month Mcap Highs NYSE
+F1HO.IDX	1-Month Mcap Highs S&P 100
+F1HP.IDX	1-Month Mcap Highs S&P 500
+F1HQ.IDX	1-Month Mcap Highs Nasdaq
+F1HR.IDX	1-Month Mcap Highs S&P 500 Real Estate
+F1HS.IDX	1-Month Mcap Highs S&P 500 Health Care
+F1HT.IDX	1-Month Mcap Highs S&P 500 Energies
+F1HU.IDX	1-Month Mcap Highs Volume Lt 100K
+F1HV.IDX	1-Month Mcap Highs Volume GT 100K
+F1HW.IDX	1-Month Mcap Highs S&P 500 Telecom Srvs
+F1HX.IDX	1-Month Mcap Highs Overall
+F1HY.IDX	1-Month Mcap Highs S&P 500 Consumer Disc
+F1HZ.IDX	1-Month Mcap Highs Russell 3000
+F1LA.IDX	1-Month Mcap Lows AMEX
+F1LB.IDX	1-Month Mcap Lows S&P 500 Materials
+F1LC.IDX	1-Month Mcap Lows Russell 2000
+F1LF.IDX	1-Month Mcap Lows S&P 500 Financials
+F1LG.IDX	1-Month Mcap Lows Russell 1000
+F1LH.IDX	1-Month Mcap Lows Price GT $10
+F1LI.IDX	1-Month Mcap Lows S&P 500 Industrials
+F1LJ.IDX	1-Month Mcap Lows S&P 500 Utilities
+F1LK.IDX	1-Month Mcap Lows S&P 500 Info Tech
+F1LL.IDX	1-Month Mcap Lows Price Lt $10
+F1LM.IDX	1-Month Mcap Lows S&P 500 Consumer Staples
+F1LN.IDX	1-Month Mcap Lows NYSE
+F1LO.IDX	1-Month Mcap Lows S&P 100
+F1LP.IDX	1-Month Mcap Lows S&P 500
+F1LQ.IDX	1-Month Mcap Lows Nasdaq
+F1LR.IDX	1-Month Mcap Lows S&P 500 Real Estate
+F1LS.IDX	1-Month Mcap Lows S&P 500 Health Care
+F1LT.IDX	1-Month Mcap Lows S&P 500 Energies
+F1LU.IDX	1-Month Mcap Lows Volume Lt 100K
+F1LV.IDX	1-Month Mcap Lows Volume GT 100K
+F1LW.IDX	1-Month Mcap Lows S&P 500 Telecom Srvs
+F1LX.IDX	1-Month Mcap Lows Overall
+F1LY.IDX	1-Month Mcap Lows S&P 500 Consumer Disc
+F1LZ.IDX	1-Month Mcap Lows Russell 3000
+F3DA.IDX	3-Month Mcap Hi-Lo AMEX
+F3DB.IDX	3-Month Mcap Hi-Lo S&P 500 Materials
+F3DC.IDX	3-Month Mcap Hi-Lo Russell 2000
+F3DF.IDX	3-Month Mcap Hi-Lo S&P 500 Financials
+F3DG.IDX	3-Month Mcap Hi-Lo Russell 1000
+F3DH.IDX	3-Month Mcap Hi-Lo Price GT $10
+F3DI.IDX	3-Month Mcap Hi-Lo S&P 500 Industrials
+F3DJ.IDX	3-Month Mcap Hi-Lo S&P 500 Utilities
+F3DK.IDX	3-Month Mcap Hi-Lo S&P 500 Info Tech
+F3DL.IDX	3-Month Mcap Hi-Lo Price Lt $10
+F3DM.IDX	3-Month Mcap Hi-Lo S&P 500 Consumer Staples
+F3DN.IDX	3-Month Mcap Hi-Lo NYSE
+F3DO.IDX	3-Month Mcap Hi-Lo S&P 100
+F3DP.IDX	3-Month Mcap Hi-Lo S&P 500
+F3DQ.IDX	3-Month Mcap Hi-Lo Nasdaq
+F3DR.IDX	3-Month Mcap Hi-Lo S&P 500 Real Estate
+F3DS.IDX	3-Month Mcap Hi-Lo S&P 500 Health Care
+F3DT.IDX	3-Month Mcap Hi-Lo S&P 500 Energies
+F3DU.IDX	3-Month Mcap Hi-Lo Volume Lt 100K
+F3DV.IDX	3-Month Mcap Hi-Lo Volume GT 100K
+F3DW.IDX	3-Month Mcap Hi-Lo S&P 500 Telecom Srvs
+F3DX.IDX	3-Month Mcap Hi-Lo Overall
+F3DY.IDX	3-Month Mcap Hi-Lo S&P 500 Consumer Disc
+F3DZ.IDX	3-Month Mcap Hi-Lo Russell 3000
+F3HA.IDX	3-Month Mcap Highs AMEX
+F3HB.IDX	3-Month Mcap Highs S&P 500 Materials
+F3HC.IDX	3-Month Mcap Highs Russell 2000
+F3HF.IDX	3-Month Mcap Highs S&P 500 Financials
+F3HG.IDX	3-Month Mcap Highs Russell 1000
+F3HH.IDX	3-Month Mcap Highs Price GT $10
+F3HI.IDX	3-Month Mcap Highs S&P 500 Industrials
+F3HJ.IDX	3-Month Mcap Highs S&P 500 Utilities
+F3HK.IDX	3-Month Mcap Highs S&P 500 Info Tech
+F3HL.IDX	3-Month Mcap Highs Price Lt $10
+F3HM.IDX	3-Month Mcap Highs S&P 500 Consumer Staples
+F3HN.IDX	3-Month Mcap Highs NYSE
+F3HO.IDX	3-Month Mcap Highs S&P 100
+F3HP.IDX	3-Month Mcap Highs S&P 500
+F3HQ.IDX	3-Month Mcap Highs Nasdaq
+F3HR.IDX	3-Month Mcap Highs S&P 500 Real Estate
+F3HS.IDX	3-Month Mcap Highs S&P 500 Health Care
+F3HT.IDX	3-Month Mcap Highs S&P 500 Energies
+F3HU.IDX	3-Month Mcap Highs Volume Lt 100K
+F3HV.IDX	3-Month Mcap Highs Volume GT 100K
+F3HW.IDX	3-Month Mcap Highs S&P 500 Telecom Srvs
+F3HX.IDX	3-Month Mcap Highs Overall
+F3HY.IDX	3-Month Mcap Highs S&P 500 Consumer Disc
+F3HZ.IDX	3-Month Mcap Highs Russell 3000
+F3LA.IDX	3-Month Mcap Lows AMEX
+F3LB.IDX	3-Month Mcap Lows S&P 500 Materials
+F3LC.IDX	3-Month Mcap Lows Russell 2000
+F3LF.IDX	3-Month Mcap Lows S&P 500 Financials
+F3LG.IDX	3-Month Mcap Lows Russell 1000
+F3LH.IDX	3-Month Mcap Lows Price GT $10
+F3LI.IDX	3-Month Mcap Lows S&P 500 Industrials
+F3LJ.IDX	3-Month Mcap Lows S&P 500 Utilities
+F3LK.IDX	3-Month Mcap Lows S&P 500 Info Tech
+F3LL.IDX	3-Month Mcap Lows Price Lt $10
+F3LM.IDX	3-Month Mcap Lows S&P 500 Consumer Staples
+F3LN.IDX	3-Month Mcap Lows NYSE
+F3LO.IDX	3-Month Mcap Lows S&P 100
+F3LP.IDX	3-Month Mcap Lows S&P 500
+F3LQ.IDX	3-Month Mcap Lows Nasdaq
+F3LR.IDX	3-Month Mcap Lows S&P 500 Real Estate
+F3LS.IDX	3-Month Mcap Lows S&P 500 Health Care
+F3LT.IDX	3-Month Mcap Lows S&P 500 Energies
+F3LU.IDX	3-Month Mcap Lows Volume Lt 100K
+F3LV.IDX	3-Month Mcap Lows Volume GT 100K
+F3LW.IDX	3-Month Mcap Lows S&P 500 Telecom Srvs
+F3LX.IDX	3-Month Mcap Lows Overall
+F3LY.IDX	3-Month Mcap Lows S&P 500 Consumer Disc
+F3LZ.IDX	3-Month Mcap Lows Russell 3000
+F5DA.IDX	5-Day Mcap Hi-Lo AMEX
+F5DB.IDX	5-Day Mcap Hi-Lo S&P 500 Materials
+F5DC.IDX	5-Day Mcap Hi-Lo Russell 2000
+F5DF.IDX	5-Day Mcap Hi-Lo S&P 500 Financials
+F5DG.IDX	5-Day Mcap Hi-Lo Russell 1000
+F5DH.IDX	5-Day Mcap Hi-Lo Price GT $10
+F5DI.IDX	5-Day Mcap Hi-Lo S&P 500 Industrials
+F5DJ.IDX	5-Day Mcap Hi-Lo S&P 500 Utilities
+F5DK.IDX	5-Day Mcap Hi-Lo S&P 500 Info Tech
+F5DL.IDX	5-Day Mcap Hi-Lo Price Lt $10
+F5DM.IDX	5-Day Mcap Hi-Lo S&P 500 Consumer Staples
+F5DN.IDX	5-Day Mcap Hi-Lo NYSE
+F5DO.IDX	5-Day Mcap Hi-Lo S&P 100
+F5DP.IDX	5-Day Mcap Hi-Lo S&P 500
+F5DQ.IDX	5-Day Mcap Hi-Lo Nasdaq
+F5DR.IDX	5-Day Mcap Hi-Lo S&P 500 Real Estate
+F5DS.IDX	5-Day Mcap Hi-Lo S&P 500 Health Care
+F5DT.IDX	5-Day Mcap Hi-Lo S&P 500 Energies
+F5DU.IDX	5-Day Mcap Hi-Lo Volume Lt 100K
+F5DV.IDX	5-Day Mcap Hi-Lo Volume GT 100K
+F5DW.IDX	5-Day Mcap Hi-Lo S&P 500 Telecom Srvs
+F5DX.IDX	5-Day Mcap Hi-Lo Overall
+F5DY.IDX	5-Day Mcap Hi-Lo S&P 500 Consumer Disc
+F5DZ.IDX	5-Day Mcap Hi-Lo Russell 3000
+F5HA.IDX	5-Day Mcap Highs AMEX
+F5HB.IDX	5-Day Mcap Highs S&P 500 Materials
+F5HC.IDX	5-Day Mcap Highs Russell 2000
+F5HF.IDX	5-Day Mcap Highs S&P 500 Financials
+F5HG.IDX	5-Day Mcap Highs Russell 1000
+F5HH.IDX	5-Day Mcap Highs Price GT $10
+F5HI.IDX	5-Day Mcap Highs S&P 500 Industrials
+F5HJ.IDX	5-Day Mcap Highs S&P 500 Utilities
+F5HK.IDX	5-Day Mcap Highs S&P 500 Info Tech
+F5HL.IDX	5-Day Mcap Highs Price Lt $10
+F5HM.IDX	5-Day Mcap Highs S&P 500 Consumer Staples
+F5HN.IDX	5-Day Mcap Highs NYSE
+F5HO.IDX	5-Day Mcap Highs S&P 100
+F5HP.IDX	5-Day Mcap Highs S&P 500
+F5HQ.IDX	5-Day Mcap Highs Nasdaq
+F5HR.IDX	5-Day Mcap Highs S&P 500 Real Estate
+F5HS.IDX	5-Day Mcap Highs S&P 500 Health Care
+F5HT.IDX	5-Day Mcap Highs S&P 500 Energies
+F5HU.IDX	5-Day Mcap Highs Volume Lt 100K
+F5HV.IDX	5-Day Mcap Highs Volume GT 100K
+F5HW.IDX	5-Day Mcap Highs S&P 500 Telecom Srvs
+F5HX.IDX	5-Day Mcap Highs Overall
+F5HY.IDX	5-Day Mcap Highs S&P 500 Consumer Disc
+F5HZ.IDX	5-Day Mcap Highs Russell 3000
+F5LA.IDX	5-Day Mcap Lows AMEX
+F5LB.IDX	5-Day Mcap Lows S&P 500 Materials
+F5LC.IDX	5-Day Mcap Lows Russell 2000
+F5LF.IDX	5-Day Mcap Lows S&P 500 Financials
+F5LG.IDX	5-Day Mcap Lows Russell 1000
+F5LH.IDX	5-Day Mcap Lows Price GT $10
+F5LI.IDX	5-Day Mcap Lows S&P 500 Industrials
+F5LJ.IDX	5-Day Mcap Lows S&P 500 Utilities
+F5LK.IDX	5-Day Mcap Lows S&P 500 Info Tech
+F5LL.IDX	5-Day Mcap Lows Price Lt $10
+F5LM.IDX	5-Day Mcap Lows S&P 500 Consumer Staples
+F5LN.IDX	5-Day Mcap Lows NYSE
+F5LO.IDX	5-Day Mcap Lows S&P 100
+F5LP.IDX	5-Day Mcap Lows S&P 500
+F5LQ.IDX	5-Day Mcap Lows Nasdaq
+F5LR.IDX	5-Day Mcap Lows S&P 500 Real Estate
+F5LS.IDX	5-Day Mcap Lows S&P 500 Health Care
+F5LT.IDX	5-Day Mcap Lows S&P 500 Energies
+F5LU.IDX	5-Day Mcap Lows Volume Lt 100K
+F5LV.IDX	5-Day Mcap Lows Volume GT 100K
+F5LW.IDX	5-Day Mcap Lows S&P 500 Telecom Srvs
+F5LX.IDX	5-Day Mcap Lows Overall
+F5LY.IDX	5-Day Mcap Lows S&P 500 Consumer Disc
+F5LZ.IDX	5-Day Mcap Lows Russell 3000
+F6DA.IDX	6-Month Mcap Hi-Lo AMEX
+F6DB.IDX	6-Month Mcap Hi-Lo S&P 500 Materials
+F6DC.IDX	6-Month Mcap Hi-Lo Russell 2000
+F6DF.IDX	6-Month Mcap Hi-Lo S&P 500 Financials
+F6DG.IDX	6-Month Mcap Hi-Lo Russell 1000
+F6DH.IDX	6-Month Mcap Hi-Lo Price GT $10
+F6DI.IDX	6-Month Mcap Hi-Lo S&P 500 Industrials
+F6DJ.IDX	6-Month Mcap Hi-Lo S&P 500 Utilities
+F6DK.IDX	6-Month Mcap Hi-Lo S&P 500 Info Tech
+F6DL.IDX	6-Month Mcap Hi-Lo Price Lt $10
+F6DM.IDX	6-Month Mcap Hi-Lo S&P 500 Consumer Staples
+F6DN.IDX	6-Month Mcap Hi-Lo NYSE
+F6DO.IDX	6-Month Mcap Hi-Lo S&P 100
+F6DP.IDX	6-Month Mcap Hi-Lo S&P 500
+F6DQ.IDX	6-Month Mcap Hi-Lo Nasdaq
+F6DR.IDX	6-Month Mcap Hi-Lo S&P 500 Real Estate
+F6DS.IDX	6-Month Mcap Hi-Lo S&P 500 Health Care
+F6DU.IDX	6-Month Mcap Hi-Lo Volume Lt 100K
+F6DV.IDX	6-Month Mcap Hi-Lo Volume GT 100K
+F6DW.IDX	6-Month Mcap Hi-Lo S&P 500 Telecom Srvs
+F6DX.IDX	6-Month Mcap Hi-Lo Overall
+F6DY.IDX	6-Month Mcap Hi-Lo S&P 500 Consumer Disc
+F6DZ.IDX	6-Month Mcap Hi-Lo Russell 3000
+F6HA.IDX	6-Month Mcap Highs AMEX
+F6HB.IDX	6-Month Mcap Highs S&P 500 Materials
+F6HC.IDX	6-Month Mcap Highs Russell 2000
+F6HF.IDX	6-Month Mcap Highs S&P 500 Financials
+F6HG.IDX	6-Month Mcap Highs Russell 1000
+F6HH.IDX	6-Month Mcap Highs Price GT $10
+F6HI.IDX	6-Month Mcap Highs S&P 500 Industrials
+F6HJ.IDX	6-Month Mcap Highs S&P 500 Utilities
+F6HK.IDX	6-Month Mcap Highs S&P 500 Info Tech
+F6HL.IDX	6-Month Mcap Highs Price Lt $10
+F6HM.IDX	6-Month Mcap Highs S&P 500 Consumer Staples
+F6HN.IDX	6-Month Mcap Highs NYSE
+F6HO.IDX	6-Month Mcap Highs S&P 100
+F6HP.IDX	6-Month Mcap Highs S&P 500
+F6HQ.IDX	6-Month Mcap Highs Nasdaq
+F6HR.IDX	6-Month Mcap Highs S&P 500 Real Estate
+F6HS.IDX	6-Month Mcap Highs S&P 500 Health Care
+F6HT.IDX	6-Month Mcap Highs S&P 500 Energies
+F6HU.IDX	6-Month Mcap Highs Volume Lt 100K
+F6HV.IDX	6-Month Mcap Highs Volume GT 100K
+F6HW.IDX	6-Month Mcap Highs S&P 500 Telecom Srvs
+F6HX.IDX	6-Month Mcap Highs Overall
+F6HY.IDX	6-Month Mcap Highs S&P 500 Consumer Disc
+F6HZ.IDX	6-Month Mcap Highs Russell 3000
+F6LA.IDX	6-Month Mcap Lows AMEX
+F6LB.IDX	6-Month Mcap Lows S&P 500 Materials
+F6LC.IDX	6-Month Mcap Lows Russell 2000
+F6LF.IDX	6-Month Mcap Lows S&P 500 Financials
+F6LG.IDX	6-Month Mcap Lows Russell 1000
+F6LH.IDX	6-Month Mcap Lows Price GT $10
+F6LI.IDX	6-Month Mcap Lows S&P 500 Industrials
+F6LJ.IDX	6-Month Mcap Lows S&P 500 Utilities
+F6LK.IDX	6-Month Mcap Lows S&P 500 Info Tech
+F6LL.IDX	6-Month Mcap Lows Price Lt $10
+F6LM.IDX	6-Month Mcap Lows S&P 500 Consumer Staples
+F6LN.IDX	6-Month Mcap Lows NYSE
+F6LO.IDX	6-Month Mcap Lows S&P 100
+F6LP.IDX	6-Month Mcap Lows S&P 500
+F6LQ.IDX	6-Month Mcap Lows Nasdaq
+F6LR.IDX	6-Month Mcap Lows S&P 500 Real Estate
+F6LS.IDX	6-Month Mcap Lows S&P 500 Health Care
+F6LU.IDX	6-Month Mcap Lows Volume Lt 100K
+F6LV.IDX	6-Month Mcap Lows Volume GT 100K
+F6LW.IDX	6-Month Mcap Lows S&P 500 Telecom Srvs
+F6LX.IDX	6-Month Mcap Lows Overall
+F6LY.IDX	6-Month Mcap Lows S&P 500 Consumer Disc
+F6LZ.IDX	6-Month Mcap Lows Russell 3000
+FADA.IDX	52-Week Mcap Hi-Lo AMEX
+FADB.IDX	52-Week Mcap Hi-Lo S&P 500 Materials
+FADC.IDX	52-Week Mcap Hi-Lo Russell 2000
+FADF.IDX	52-Week Mcap Hi-Lo S&P 500 Financials
+FADG.IDX	52-Week Mcap Hi-Lo Russell 1000
+FADH.IDX	52-Week Mcap Hi-Lo Price GT $10
+FADI.IDX	52-Week Mcap Hi-Lo S&P 500 Industrials
+FADJ.IDX	6-Month Mcap Hi-Lo S&P 500 Utilities
+FADK.IDX	52-Week Mcap Hi-Lo S&P 500 Info Tech
+FADL.IDX	52-Week Mcap Hi-Lo Price Lt $10
+FADM.IDX	52-Week Mcap Hi-Lo S&P 500 Consumer Staples
+FADN.IDX	52-Week Mcap Hi-Lo NYSE
+FADO.IDX	52-Week Mcap Hi-Lo S&P 100
+FADP.IDX	52-Week Mcap Hi-Lo S&P 500
+FADQ.IDX	52-Week Mcap Hi-Lo Nasdaq
+FADR.IDX	52-Week Mcap Hi-Lo S&P 500 Real Estate
+FADS.IDX	52-Week Mcap Hi-Lo S&P 500 Health Care
+FADU.IDX	52-Week Mcap Hi-Lo Volume Lt 100K
+FADV.IDX	52-Week Mcap Hi-Lo Volume GT 100K
+FADW.IDX	52-Week Mcap Hi-Lo S&P 500 Telecom Srvs
+FADX.IDX	52-Week Mcap Hi-Lo Overall
+FADY.IDX	52-Week Mcap Hi-Lo S&P 500 Consumer Disc
+FADZ.IDX	52-Week Mcap Hi-Lo Russell 3000
+FAHA.IDX	52-Week Mcap Highs AMEX
+FAHB.IDX	52-Week Mcap Highs S&P 500 Materials
+FAHC.IDX	52-Week Mcap Highs Russell 2000
+FAHF.IDX	52-Week Mcap Highs S&P 500 Financials
+FAHG.IDX	52-Week Mcap Highs Russell 1000
+FAHH.IDX	52-Week Mcap Highs Price GT $10
+FAHI.IDX	52-Week Mcap Highs S&P 500 Industrials
+FAHJ.IDX	52-Week Mcap Highs S&P 500 Utilities
+FAHK.IDX	52-Week Mcap Highs S&P 500 Info Tech
+FAHL.IDX	52-Week Mcap Highs Price Lt $10
+FAHM.IDX	52-Week Mcap Highs S&P 500 Consumer Staples
+FAHN.IDX	52-Week Mcap Highs NYSE
+FAHO.IDX	52-Week Mcap Highs S&P 100
+FAHP.IDX	52-Week Mcap Highs S&P 500
+FAHQ.IDX	52-Week Mcap Highs Nasdaq
+FAHR.IDX	52-Week Mcap Highs S&P 500 Real Estate
+FAHS.IDX	52-Week Mcap Highs S&P 500 Health Care
+FAHT.IDX	52-Week Mcap Highs S&P 500 Energies
+FAHU.IDX	52-Week Mcap Highs Volume Lt 100K
+FAHV.IDX	52-Week Mcap Highs Volume GT 100K
+FAHW.IDX	52-Week Mcap Highs S&P 500 Telecom Srvs
+FAHX.IDX	52-Week Mcap Highs Overall
+FAHY.IDX	52-Week Mcap Highs S&P 500 Consumer Disc
+FAHZ.IDX	52-Week Mcap Highs Russell 3000
+FALA.IDX	52-Week Mcap Lows AMEX
+FALB.IDX	52-Week Mcap Lows S&P 500 Materials
+FALC.IDX	52-Week Mcap Lows Russell 2000
+FALF.IDX	52-Week Mcap Lows S&P 500 Financials
+FALG.IDX	52-Week Mcap Lows Russell 1000
+FALH.IDX	52-Week Mcap Lows Price GT $10
+FALI.IDX	52-Week Mcap Lows S&P 500 Industrials
+FALJ.IDX	6-Month Mcap Lows S&P 500 Utilities
+FALK.IDX	52-Week Mcap Lows S&P 500 Info Tech
+FALL.IDX	52-Week Mcap Lows Price Lt $10
+FALM.IDX	52-Week Mcap Lows S&P 500 Consumer Staples
+FALN.IDX	52-Week Mcap Lows NYSE
+FALO.IDX	52-Week Mcap Lows S&P 100
+FALP.IDX	52-Week Mcap Lows S&P 500
+FALQ.IDX	52-Week Mcap Lows Nasdaq
+FALR.IDX	52-Week Mcap Lows S&P 500 Real Estate
+FALS.IDX	52-Week Mcap Lows S&P 500 Health Care
+FALU.IDX	52-Week Mcap Lows Volume Lt 100K
+FALV.IDX	52-Week Mcap Lows Volume GT 100K
+FALW.IDX	52-Week Mcap Lows S&P 500 Telecom Srvs
+FALX.IDX	52-Week Mcap Lows Overall
+FALY.IDX	52-Week Mcap Lows S&P 500 Consumer Disc
+FALZ.IDX	52-Week Mcap Lows Russell 3000
+FYDA.IDX	YTD Mcap Hi-Lo AMEX
+FYDB.IDX	YTD Mcap Hi-Lo S&P 500 Materials
+FYDC.IDX	YTD Mcap Hi-Lo Russell 2000
+FYDF.IDX	YTD Mcap Hi-Lo S&P 500 Financials
+FYDG.IDX	YTD Mcap Hi-Lo Russell 1000
+FYDH.IDX	YTD Mcap Hi-Lo Price GT $10
+FYDI.IDX	YTD Mcap Hi-Lo S&P 500 Industrials
+FYDJ.IDX	YTD Mcap Hi-Lo S&P 500 Utilities
+FYDK.IDX	YTD Mcap Hi-Lo S&P 500 Info Tech
+FYDL.IDX	YTD Mcap Hi-Lo Price Lt $10
+FYDM.IDX	YTD Mcap Hi-Lo S&P 500 Consumer Staples
+FYDN.IDX	YTD Mcap Hi-Lo NYSE
+FYDO.IDX	YTD Mcap Hi-Lo S&P 100
+FYDP.IDX	YTD Mcap Hi-Lo S&P 500
+FYDQ.IDX	YTD Mcap Hi-Lo Nasdaq
+FYDR.IDX	YTD Mcap Hi-Lo S&P 500 Real Estate
+FYDS.IDX	YTD Mcap Hi-Lo S&P 500 Health Care
+FYDU.IDX	YTD Mcap Hi-Lo Volume Lt 100K
+FYDV.IDX	YTD Mcap Hi-Lo Volume GT 100K
+FYDW.IDX	YTD Mcap Hi-Lo S&P 500 Telecom Srvs
+FYDX.IDX	YTD Mcap Hi-Lo Overall
+FYDY.IDX	YTD Mcap Hi-Lo S&P 500 Consumer Disc
+FYDZ.IDX	YTD Mcap Hi-Lo Russell 3000
+FYHA.IDX	YTD Mcap Highs AMEX
+FYHB.IDX	YTD Mcap Highs S&P 500 Materials
+FYHC.IDX	YTD Mcap Highs Russell 2000
+FYHF.IDX	YTD Mcap Highs S&P 500 Financials
+FYHG.IDX	YTD Mcap Highs Russell 1000
+FYHH.IDX	YTD Mcap Highs Price GT $10
+FYHI.IDX	YTD Mcap Highs S&P 500 Industrials
+FYHJ.IDX	YTD Mcap Highs S&P 500 Utilities
+FYHK.IDX	YTD Mcap Highs S&P 500 Info Tech
+FYHL.IDX	YTD Mcap Highs Price Lt $10
+FYHM.IDX	YTD Mcap Highs S&P 500 Consumer Staples
+FYHN.IDX	YTD Mcap Highs NYSE
+FYHO.IDX	YTD Mcap Highs S&P 100
+FYHP.IDX	YTD Mcap Highs S&P 500
+FYHQ.IDX	YTD Mcap Highs Nasdaq
+FYHR.IDX	YTD Mcap Highs S&P 500 Real Estate
+FYHS.IDX	YTD Mcap Highs S&P 500 Health Care
+FYHT.IDX	YTD Mcap Highs S&P 500 Energies
+FYHU.IDX	YTD Mcap Highs Volume Lt 100K
+FYHV.IDX	YTD Mcap Highs Volume GT 100K
+FYHW.IDX	YTD Mcap Highs S&P 500 Telecom Srvs
+FYHX.IDX	YTD Mcap Highs Overall
+FYHY.IDX	YTD Mcap Highs S&P 500 Consumer Disc
+FYHZ.IDX	YTD Mcap Highs Russell 3000
+FYLA.IDX	YTD Mcap Lows AMEX
+FYLB.IDX	YTD Mcap Lows S&P 500 Materials
+FYLC.IDX	YTD Mcap Lows Russell 2000
+FYLF.IDX	YTD Mcap Lows S&P 500 Financials
+FYLG.IDX	YTD Mcap Lows Russell 1000
+FYLH.IDX	YTD Mcap Lows Price GT $10
+FYLI.IDX	YTD Mcap Lows S&P 500 Industrials
+FYLJ.IDX	YTD Mcap Lows S&P 500 Utilities
+FYLK.IDX	YTD Mcap Lows S&P 500 Info Tech
+FYLL.IDX	YTD Mcap Lows Price Lt $10
+FYLM.IDX	YTD Mcap Lows S&P 500 Consumer Staples
+FYLN.IDX	YTD Mcap Lows NYSE
+FYLO.IDX	YTD Mcap Lows S&P 100
+FYLP.IDX	YTD Mcap Lows S&P 500
+FYLQ.IDX	YTD Mcap Lows Nasdaq
+FYLR.IDX	YTD Mcap Lows S&P 500 Real Estate
+FYLS.IDX	YTD Mcap Lows S&P 500 Health Care
+FYLU.IDX	YTD Mcap Lows Volume Lt 100K
+FYLV.IDX	YTD Mcap Lows Volume GT 100K
+FYLW.IDX	YTD Mcap Lows S&P 500 Telecom Srvs
+FYLX.IDX	YTD Mcap Lows Overall
+FYLY.IDX	YTD Mcap Lows S&P 500 Consumer Disc
+FYLZ.IDX	YTD Mcap Lows Russell 3000
+G1DA.IDX	1-Month Mcap Hi-Lo S&P 600
+G1DB.IDX	1-Month Mcap Hi-Lo S&P 400
+G1DC.IDX	1-Month Mcap Hi-Lo Nasdaq 100
+G1DD.IDX	1-Month Mcap Hi-Lo Dow Indu
+G1DE.IDX	1-Month Mcap Hi-Lo Dow Comp
+G1DF.IDX	1-Month Mcap Hi-Lo Dow Tran
+G1DG.IDX	1-Month Mcap Hi-Lo Dow Util
+G1DO.IDX	1-Month Mcap Hi-Lo Nasdaq Comp
+G1DV.IDX	1-Month Mcap Hi-Lo S&P ESG
+G1DY.IDX	1-Month Mcap Hi-Lo S&P 500 Value
+G1DZ.IDX	1-Month Mcap Hi-Lo S&P 500 Growth
+G1HA.IDX	1-Month Mcap Highs S&P 600
+G1HB.IDX	1-Month Mcap Highs S&P 400
+G1HC.IDX	1-Month Mcap Highs Nasdaq 100
+G1HD.IDX	1-Month Mcap Highs Dow Indu
+G1HE.IDX	1-Month Mcap Highs Dow Comp
+G1HF.IDX	1-Month Mcap Highs Dow Tran
+G1HG.IDX	1-Month Mcap Highs Dow Util
+G1HO.IDX	1-Month Mcap Highs Nasdaq Comp
+G1HV.IDX	1-Month Mcap Highs S&P ESG
+G1HY.IDX	1-Month Mcap Highs S&P 500 Value
+G1HZ.IDX	1-Month Mcap Highs S&P 500 Growth
+G1LA.IDX	1-Month Mcap Lows S&P 600
+G1LB.IDX	1-Month Mcap Lows S&P 400
+G1LC.IDX	1-Month Mcap Lows Nasdaq 100
+G1LD.IDX	1-Month Mcap Lows Dow Indu
+G1LE.IDX	1-Month Mcap Lows Dow Comp
+G1LF.IDX	1-Month Mcap Lows Dow Tran
+G1LG.IDX	1-Month Mcap Lows Dow Util
+G1LO.IDX	1-Month Mcap Lows Nasdaq Comp
+G1LV.IDX	1-Month Mcap Lows S&P ESG
+G1LY.IDX	1-Month Mcap Lows S&P 500 Value
+G1LZ.IDX	1-Month Mcap Lows S&P 500 Growth
+G3DA.IDX	3-Month Mcap Hi-Lo S&P 600
+G3DB.IDX	3-Month Mcap Hi-Lo S&P 400
+G3DC.IDX	3-Month Mcap Hi-Lo Nasdaq 100
+G3DD.IDX	3-Month Mcap Hi-Lo Dow Indu
+G3DE.IDX	3-Month Mcap Hi-Lo Dow Comp
+G3DF.IDX	3-Month Mcap Hi-Lo Dow Tran
+G3DG.IDX	3-Month Mcap Hi-Lo Dow Util
+G3DO.IDX	3-Month Mcap Hi-Lo Nasdaq Comp
+G3DV.IDX	3-Month Mcap Hi-Lo S&P ESG
+G3DY.IDX	3-Month Mcap Hi-Lo S&P 500 Value
+G3DZ.IDX	3-Month Mcap Hi-Lo S&P 500 Growth
+G3HA.IDX	3-Month Mcap Highs S&P 600
+G3HB.IDX	3-Month Mcap Highs S&P 400
+G3HC.IDX	3-Month Mcap Highs Nasdaq 100
+G3HD.IDX	3-Month Mcap Highs Dow Indu
+G3HE.IDX	3-Month Mcap Highs Dow Comp
+G3HF.IDX	3-Month Mcap Highs Dow Tran
+G3HO.IDX	3-Month Mcap Highs Nasdaq Comp
+G3HV.IDX	3-Month Mcap Highs S&P ESG
+G3HY.IDX	3-Month Mcap Highs S&P 500 Value
+G3HZ.IDX	3-Month Mcap Highs S&P 500 Growth
+G3LA.IDX	3-Month Mcap Lows S&P 600
+G3LB.IDX	3-Month Mcap Lows S&P 400
+G3LC.IDX	3-Month Mcap Lows Nasdaq 100
+G3LD.IDX	3-Month Mcap Lows Dow Indu
+G3LE.IDX	3-Month Mcap Lows Dow Comp
+G3LF.IDX	3-Month Mcap Lows Dow Tran
+G3LG.IDX	3-Month Mcap Lows Dow Util
+G3LO.IDX	3-Month Mcap Lows Nasdaq Comp
+G3LV.IDX	3-Month Mcap Lows S&P ESG
+G3LY.IDX	3-Month Mcap Lows S&P 500 Value
+G3LZ.IDX	3-Month Mcap Lows S&P 500 Growth
+G5DA.IDX	5-Day Mcap Hi-Lo S&P 600
+G5DB.IDX	5-Day Mcap Hi-Lo S&P 400
+G5DC.IDX	5-Day Mcap Hi-Lo Nasdaq 100
+G5DD.IDX	5-Day Mcap Hi-Lo Dow Indu
+G5DE.IDX	5-Day Mcap Hi-Lo Dow Comp
+G5DF.IDX	5-Day Mcap Hi-Lo Dow Tran
+G5DG.IDX	5-Day Mcap Hi-Lo Dow Util
+G5DO.IDX	5-Day Mcap Hi-Lo Nasdaq Comp
+G5DV.IDX	5-Day Mcap Hi-Lo S&P ESG
+G5DY.IDX	5-Day Mcap Hi-Lo S&P 500 Value
+G5DZ.IDX	5-Day Mcap Hi-Lo S&P 500 Growth
+G5HA.IDX	5-Day Mcap Highs S&P 600
+G5HB.IDX	5-Day Mcap Highs S&P 400
+G5HC.IDX	5-Day Mcap Highs Nasdaq 100
+G5HD.IDX	5-Day Mcap Highs Dow Indu
+G5HE.IDX	5-Day Mcap Highs Dow Comp
+G5HF.IDX	5-Day Mcap Highs Dow Tran
+G5HG.IDX	5-Day Mcap Highs Dow Util
+G5HO.IDX	5-Day Mcap Highs Nasdaq Comp
+G5HV.IDX	5-Day Mcap Highs S&P ESG
+G5HY.IDX	5-Day Mcap Highs S&P 500 Value
+G5HZ.IDX	5-Day Mcap Highs S&P 500 Growth
+G5LA.IDX	5-Day Mcap Lows S&P 600
+G5LB.IDX	5-Day Mcap Lows S&P 400
+G5LC.IDX	5-Day Mcap Lows Nasdaq 100
+G5LD.IDX	5-Day Mcap Lows Dow Indu
+G5LE.IDX	5-Day Mcap Lows Dow Comp
+G5LF.IDX	5-Day Mcap Lows Dow Tran
+G5LG.IDX	5-Day Mcap Lows Dow Util
+G5LO.IDX	5-Day Mcap Lows Nasdaq Comp
+G5LV.IDX	5-Day Mcap Lows S&P ESG
+G5LY.IDX	5-Day Mcap Lows S&P 500 Value
+G5LZ.IDX	5-Day Mcap Lows S&P 500 Growth
+G6DA.IDX	6-Month Mcap Hi-Lo S&P 600
+G6DB.IDX	6-Month Mcap Hi-Lo S&P 400
+G6DC.IDX	6-Month Mcap Hi-Lo Nasdaq 100
+G6DD.IDX	6-Month Mcap Hi-Lo Dow Indu
+G6DE.IDX	6-Month Mcap Hi-Lo Dow Comp
+G6DF.IDX	6-Month Mcap Hi-Lo Dow Tran
+G6DG.IDX	6-Month Mcap Lows Dow Util
+G6DO.IDX	6-Month Mcap Hi-Lo Nasdaq Comp
+G6DV.IDX	6-Month Mcap Hi-Lo S&P ESG
+G6DY.IDX	6-Month Mcap Hi-Lo S&P 500 Value
+G6DZ.IDX	6-Month Mcap Hi-Lo S&P 500 Growth
+G6HA.IDX	6-Month Mcap Highs S&P 600
+G6HB.IDX	6-Month Mcap Highs S&P 400
+G6HC.IDX	6-Month Mcap Highs Nasdaq 100
+G6HD.IDX	6-Month Mcap Highs Dow Indu
+G6HE.IDX	6-Month Mcap Highs Dow Comp
+G6HF.IDX	6-Month Mcap Highs Dow Tran
+G6HO.IDX	6-Month Mcap Highs Nasdaq Comp
+G6HV.IDX	6-Month Mcap Highs S&P ESG
+G6HY.IDX	6-Month Mcap Highs S&P 500 Value
+G6HZ.IDX	6-Month Mcap Highs S&P 500 Growth
+G6LA.IDX	6-Month Mcap Lows S&P 600
+G6LB.IDX	6-Month Mcap Lows S&P 400
+G6LC.IDX	6-Month Mcap Lows Nasdaq 100
+G6LD.IDX	6-Month Mcap Lows Dow Indu
+G6LE.IDX	6-Month Mcap Lows Dow Comp
+G6LF.IDX	6-Month Mcap Lows Dow Tran
+G6LG.IDX	6-Month Mcap Hi-Lo Dow Util
+G6LO.IDX	6-Month Mcap Lows Nasdaq Comp
+G6LV.IDX	6-Month Mcap Lows S&P ESG
+G6LY.IDX	6-Month Mcap Lows S&P 500 Value
+G6LZ.IDX	6-Month Mcap Lows S&P 500 Growth
+GADA.IDX	52-Week Mcap Hi-Lo S&P 600
+GADB.IDX	52-Week Mcap Hi-Lo S&P 400
+GADC.IDX	52-Week Mcap Hi-Lo Nasdaq 100
+GADD.IDX	52-Week Mcap Hi-Lo Dow Indu
+GADE.IDX	52-Week Mcap Hi-Lo Dow Comp
+GADF.IDX	52-Week Mcap Hi-Lo Dow Tran
+GADG.IDX	52-Week Mcap Hi-Lo Dow Util
+GADO.IDX	52-Week Mcap Hi-Lo Nasdaq Comp
+GADV.IDX	52-Week Mcap Hi-Lo S&P ESG
+GADY.IDX	52-Week Mcap Hi-Lo S&P 500 Value
+GADZ.IDX	52-Week Mcap Hi-Lo S&P 500 Growth
+GAHA.IDX	52-Week Mcap Highs S&P 600
+GAHB.IDX	52-Week Mcap Highs S&P 400
+GAHC.IDX	52-Week Mcap Highs Nasdaq 100
+GAHD.IDX	52-Week Mcap Highs Dow Indu
+GAHE.IDX	52-Week Mcap Highs Dow Comp
+GAHF.IDX	52-Week Mcap Highs Dow Tran
+GAHO.IDX	52-Week Mcap Highs Nasdaq Comp
+GAHV.IDX	52-Week Mcap Highs S&P ESG
+GAHY.IDX	52-Week Mcap Highs S&P 500 Value
+GAHZ.IDX	52-Week Mcap Highs S&P 500 Growth
+GALA.IDX	52-Week Mcap Lows S&P 600
+GALB.IDX	52-Week Mcap Lows S&P 400
+GALC.IDX	52-Week Mcap Lows Nasdaq 100
+GALD.IDX	52-Week Mcap Lows Dow Indu
+GALE.IDX	52-Week Mcap Lows Dow Comp
+GALF.IDX	52-Week Mcap Lows Dow Tran
+GALG.IDX	52-Week Mcap Lows Dow Util
+GALO.IDX	52-Week Mcap Lows Nasdaq Comp
+GALV.IDX	52-Week Mcap Lows S&P ESG
+GALY.IDX	52-Week Mcap Lows S&P 500 Value
+GALZ.IDX	52-Week Mcap Lows S&P 500 Growth
+GMI.IDX	Mkt Vector Gold Min Iopv
+GNX.IDX	GSCI Spot Return
+GYDA.IDX	YTD Mcap Hi-Lo S&P 600
+GYDB.IDX	YTD Mcap Hi-Lo S&P 400
+GYDC.IDX	YTD Mcap Hi-Lo Nasdaq 100
+GYDD.IDX	YTD Mcap Hi-Lo Dow Indu
+GYDE.IDX	YTD Mcap Hi-Lo Dow Comp
+GYDF.IDX	YTD Mcap Hi-Lo Dow Tran
+GYDG.IDX	YTD Mcap Hi-Lo Dow Util
+GYDO.IDX	YTD Mcap Hi-Lo Nasdaq Comp
+GYDV.IDX	YTD Mcap Hi-Lo S&P ESG
+GYDY.IDX	YTD Mcap Hi-Lo S&P 500 Value
+GYDZ.IDX	YTD Mcap Hi-Lo S&P 500 Growth
+GYHA.IDX	YTD Mcap Highs S&P 600
+GYHB.IDX	YTD Mcap Highs S&P 400
+GYHC.IDX	YTD Cap Highs Nasdaq 100
+GYHD.IDX	YTD Mcap Highs Dow Indu
+GYHE.IDX	YTD Mcap Highs Dow Comp
+GYHF.IDX	YTD Mcap Highs Dow Tran
+GYHO.IDX	YTD Mcap Highs Nasdaq Comp
+GYHV.IDX	YTD Mcap Highs S&P ESG
+GYHY.IDX	YTD Mcap Highs S&P 500 Value
+GYHZ.IDX	YTD Mcap Highs S&P 500 Growth
+GYLA.IDX	YTD Mcap Lows S&P 600
+GYLB.IDX	YTD Mcap Lows S&P 400
+GYLC.IDX	YTD Mcap Lows Nasdaq 100
+GYLD.IDX	YTD Mcap Lows Dow Indu
+GYLE.IDX	YTD Mcap Lows Dow Comp
+GYLF.IDX	YTD Mcap Lows Dow Tran
+GYLG.IDX	YTD Mcap Lows Dow Util
+GYLO.IDX	YTD Mcap Lows Nasdaq Comp
+GYLV.IDX	YTD Mcap Lows S&P ESG
+GYLY.IDX	YTD Mcap Lows S&P 500 Value
+GYLZ.IDX	YTD Mcap Lows S&P 500 Growth
+HGX.IDX	Phlx Hsg Sector Index
+HIGA.IDX	AMEX New Highs
+HIGC.IDX	CSE New Highs
+HIGD.IDX	OTC New Highs
+HIGE.IDX	ETFS New Highs
+HIGN.IDX	NYSE New Highs
+HIGQ.IDX	NASD New Highs
+HIGS.IDX	TSX New Highs
+HIGU.IDX	OTC US New Highs
+HIGV.IDX	TSXV New Highs
+HLCD.IDX	CAD High Low Stocks
+HLUS.IDX	US High Low Stocks
+HSCE.IDX	Hang Seng China Enterprises Index
+HSI.IDX	Hang Seng Index
+HUI.IDX	AMEX Gold Bugs Index
+HVX.IDX	Mkt Vector Env Serv Iopv
+IDX.IDX	S&P 400 Midcap Index
+INDS.IDX	Nasdaq Industrial
+INSR.IDX	Nasdaq Inurance
+IQX.IDX	S&P 500 EQUAL WEIGHT
+IQZ.IDX	S&P 1000
+IVX.IDX	S&P 500 Value
+IXB.IDX	Materials Select Sector Index
+IXCO.IDX	Nasdaq Computer
+IXE.IDX	The Energy Select Sector Index
+IXF.IDX	Nasdaq Financial 100
+IXHC.IDX	NASDAQ Health Care Index
+IXI.IDX	Industrial Select Sector Index
+IXM.IDX	Financial Select Sector Index
+IXR.IDX	Consumer Staples Select Sector Index
+IXTC.IDX	Nasdaq Telecommunications
+IXU.IDX	Utilities Select Sector Index
+IXV.IDX	Healthcare Select Sector Index
+IXY.IDX	Consumer Discretionary Select Sector Index
+JKSE.IDX	Jakarta Composite Index
+KDX.IDX	KBW Finsec Dividend Yield Index
+KIX.IDX	KBW Insurance Index
+KLSE.IDX	Bursa Malaysia Klci Index
+KLX.IDX	Mkt Vectors Steel Iopv
+KPX.IDX	KBW Property & Casualty Index
+KRX.IDX	KBW Regional Banking Index
+KSI.IDX	Kospi 200 Index
+KSIC.IDX	Kospi Composite Index
+KSX.IDX	KBW Capital Markets Index
+KYX.IDX	KBW Premium Yield Equity REIT Index
+LOWA.IDX	AMEX New Lows
+LOWC.IDX	CSE New Highs
+LOWD.IDX	OTC New Lows
+LOWE.IDX	ETFS New Highs
+LOWN.IDX	NYSE New Lows
+LOWQ.IDX	NASD New Lows
+LOWS.IDX	TSX New Lows
+LOWU.IDX	OTC US New Lows
+LOWV.IDX	TSXV New Lows
+M1DA.IDX	1-Month Hi-Lo AMEX
+M1DB.IDX	1-Month Hi-Lo S&P 500 Materials
+M1DC.IDX	1-Month Hi-Lo Russell 2000
+M1DE.IDX	1-Month Hi-Lo ETFS
+M1DF.IDX	1-Month Hi-Lo S&P 500 Financials
+M1DG.IDX	1-Month Hi-Lo Russell 1000
+M1DH.IDX	1-Month Hi-Lo Price GT $10
+M1DI.IDX	1-Month Hi-Lo S&P 500 Industrials
+M1DJ.IDX	1-Month Hi-Lo S&P 500 Utilities
+M1DK.IDX	1-Month Hi-Lo S&P 500 Info Tech
+M1DL.IDX	1-Month Hi-Lo Price Lt $10
+M1DM.IDX	1-Month Hi-Lo S&P 500 Consumer Staples
+M1DN.IDX	1-Month Hi-Lo NYSE
+M1DO.IDX	1-Month Hi-Lo S&P 100
+M1DP.IDX	1-Month Hi-Lo S&P 500
+M1DQ.IDX	1-Month Hi-Lo Nasdaq
+M1DR.IDX	1-Month Hi-Lo S&P 500 Real Estate
+M1DS.IDX	1-Month Hi-Lo S&P 500 Health Care
+M1DT.IDX	1-Month Hi-Lo S&P 500 Energies
+M1DU.IDX	1-Month Hi-Lo Volume Lt 100K
+M1DV.IDX	1-Month Hi-Lo Volume GT 100K
+M1DW.IDX	1-Month Hi-Lo S&P 500 Telecom Srvs
+M1DX.IDX	1-Month Hi-Lo Overall
+M1DY.IDX	1-Month Hi-Lo S&P 500 Consumer Disc
+M1DZ.IDX	1-Month Hi-Lo Russell 3000
+M1HA.IDX	1-Month Highs AMEX
+M1HB.IDX	1-Month Highs S&P 500 Materials
+M1HC.IDX	1-Month Highs Russell 2000
+M1HE.IDX	1-Month Highs ETFS
+M1HF.IDX	1-Month Highs S&P 500 Financials
+M1HG.IDX	1-Month Highs Russell 1000
+M1HH.IDX	1-Month Highs Price GT $10
+M1HI.IDX	1-Month Highs S&P 500 Industrials
+M1HJ.IDX	1-Month Highs S&P 500 Utilities
+M1HK.IDX	1-Month Highs S&P 500 Info Tech
+M1HL.IDX	1-Month Highs Price Lt $10
+M1HM.IDX	1-Month Highs S&P 500 Consumer Staples
+M1HN.IDX	1-Month Highs NYSE
+M1HO.IDX	1-Month Highs S&P 100
+M1HP.IDX	1-Month Highs S&P 500
+M1HQ.IDX	1-Month Highs Nasdaq
+M1HR.IDX	1-Month Highs S&P 500 Real Estate
+M1HS.IDX	1-Month Highs S&P 500 Health Care
+M1HT.IDX	1-Month Highs S&P 500 Energies
+M1HU.IDX	1-Month Highs Volume Lt 100K
+M1HV.IDX	1-Month Highs Volume GT 100K
+M1HW.IDX	1-Month Highs S&P 500 Telecom Srvs
+M1HX.IDX	1-Month Highs Overall
+M1HY.IDX	1-Month Highs S&P 500 Consumer Disc
+M1HZ.IDX	1-Month Highs Russell 3000
+M1LA.IDX	1-Month Lows AMEX
+M1LB.IDX	1-Month Lows S&P 500 Materials
+M1LC.IDX	1-Month Lows Russell 2000
+M1LE.IDX	1-Month Lows ETFS
+M1LF.IDX	1-Month Lows S&P 500 Financials
+M1LG.IDX	1-Month Lows Russell 1000
+M1LH.IDX	1-Month Lows Price GT $10
+M1LI.IDX	1-Month Lows S&P 500 Industrials
+M1LJ.IDX	1-Month Lows S&P 500 Utilities
+M1LK.IDX	1-Month Lows S&P 500 Info Tech
+M1LL.IDX	1-Month Lows Price Lt $10
+M1LM.IDX	1-Month Lows S&P 500 Consumer Staples
+M1LN.IDX	1-Month Lows NYSE
+M1LO.IDX	1-Month Lows S&P 100
+M1LP.IDX	1-Month Lows S&P 500
+M1LQ.IDX	1-Month Lows Nasdaq
+M1LR.IDX	1-Month Lows S&P 500 Real Estate
+M1LS.IDX	1-Month Lows S&P 500 Health Care
+M1LT.IDX	1-Month Lows S&P 500 Energies
+M1LU.IDX	1-Month Lows Volume Lt 100K
+M1LV.IDX	1-Month Lows Volume GT 100K
+M1LW.IDX	1-Month Lows S&P 500 Telecom Srvs
+M1LX.IDX	1-Month Lows Overall
+M1LY.IDX	1-Month Lows S&P 500 Consumer Disc
+M1LZ.IDX	1-Month Lows Russell 3000
+M3DA.IDX	3-Month Hi-Lo AMEX
+M3DB.IDX	3-Month Hi-Lo S&P 500 Materials
+M3DC.IDX	3-Month Hi-Lo Russell 2000
+M3DE.IDX	3-Month Hi-Lo ETFS
+M3DF.IDX	3-Month Hi-Lo S&P 500 Financials
+M3DG.IDX	3-Month Hi-Lo Russell 1000
+M3DH.IDX	3-Month Hi-Lo Price GT $10
+M3DI.IDX	3-Month Hi-Lo S&P 500 Industrials
+M3DJ.IDX	3-Month Hi-Lo S&P 500 Utilities
+M3DK.IDX	3-Month Hi-Lo S&P 500 Info Tech
+M3DL.IDX	3-Month Hi-Lo Price Lt $10
+M3DM.IDX	3-Month Hi-Lo S&P 500 Consumer Staples
+M3DN.IDX	3-Month Hi-Lo NYSE
+M3DO.IDX	3-Month Hi-Lo S&P 100
+M3DP.IDX	3-Month Hi-Lo S&P 500
+M3DQ.IDX	3-Month Hi-Lo Nasdaq
+M3DR.IDX	3-Month Hi-Lo S&P 500 Real Estate
+M3DS.IDX	3-Month Hi-Lo S&P 500 Health Care
+M3DT.IDX	3-Month Hi-Lo S&P 500 Energies
+M3DU.IDX	3-Month Hi-Lo Volume Lt 100K
+M3DV.IDX	3-Month Hi-Lo Volume GT 100K
+M3DW.IDX	3-Month Hi-Lo S&P 500 Telecom Srvs
+M3DX.IDX	3-Month Hi-Lo Overall
+M3DY.IDX	3-Month Hi-Lo S&P 500 Consumer Disc
+M3DZ.IDX	3-Month Hi-Lo Russell 3000
+M3HA.IDX	3-Month Highs AMEX
+M3HB.IDX	3-Month Highs S&P 500 Materials
+M3HC.IDX	3-Month Highs Russell 2000
+M3HE.IDX	3-Month Highs ETFS
+M3HF.IDX	3-Month Highs S&P 500 Financials
+M3HG.IDX	3-Month Highs Russell 1000
+M3HH.IDX	3-Month Highs Price GT $10
+M3HI.IDX	3-Month Highs S&P 500 Industrials
+M3HJ.IDX	3-Month Highs S&P 500 Utilities
+M3HK.IDX	3-Month Highs S&P 500 Info Tech
+M3HL.IDX	3-Month Highs Price Lt $10
+M3HM.IDX	3-Month Highs S&P 500 Consumer Staples
+M3HN.IDX	3-Month Highs NYSE
+M3HO.IDX	3-Month Highs S&P 100
+M3HP.IDX	3-Month Highs S&P 500
+M3HQ.IDX	3-Month Highs Nasdaq
+M3HR.IDX	3-Month Highs S&P 500 Real Estate
+M3HS.IDX	3-Month Highs S&P 500 Health Care
+M3HT.IDX	3-Month Highs S&P 500 Energies
+M3HU.IDX	3-Month Highs Volume Lt 100K
+M3HV.IDX	3-Month Highs Volume GT 100K
+M3HW.IDX	3-Month Highs S&P 500 Telecom Srvs
+M3HX.IDX	3-Month Highs Overall
+M3HY.IDX	3-Month Highs S&P 500 Consumer Disc
+M3HZ.IDX	3-Month Highs Russell 3000
+M3LA.IDX	3-Month Lows AMEX
+M3LB.IDX	3-Month Lows S&P 500 Materials
+M3LC.IDX	3-Month Lows Russell 2000
+M3LE.IDX	3-Month Lows ETFS
+M3LF.IDX	3-Month Lows S&P 500 Financials
+M3LG.IDX	3-Month Lows Russell 1000
+M3LH.IDX	3-Month Lows Price GT $10
+M3LI.IDX	3-Month Lows S&P 500 Industrials
+M3LJ.IDX	3-Month Lows S&P 500 Utilities
+M3LK.IDX	3-Month Lows S&P 500 Info Tech
+M3LL.IDX	3-Month Lows Price Lt $10
+M3LM.IDX	3-Month Lows S&P 500 Consumer Staples
+M3LN.IDX	3-Month Lows NYSE
+M3LO.IDX	3-Month Lows S&P 100
+M3LP.IDX	3-Month Lows S&P 500
+M3LQ.IDX	3-Month Lows Nasdaq
+M3LR.IDX	3-Month Lows S&P 500 Real Estate
+M3LS.IDX	3-Month Lows S&P 500 Health Care
+M3LT.IDX	3-Month Lows S&P 500 Energies
+M3LU.IDX	3-Month Lows Volume Lt 100K
+M3LV.IDX	3-Month Lows Volume GT 100K
+M3LW.IDX	3-Month Lows S&P 500 Telecom Srvs
+M3LX.IDX	3-Month Lows Overall
+M3LY.IDX	3-Month Lows S&P 500 Consumer Disc
+M3LZ.IDX	3-Month Lows Russell 3000
+M5DA.IDX	5-Day Hi-Lo AMEX
+M5DB.IDX	5-Day Hi-Lo S&P 500 Materials
+M5DC.IDX	5-Day Hi-Lo Russell 2000
+M5DE.IDX	5-Day Hi-Lo ETFS
+M5DF.IDX	5-Day Hi-Lo S&P 500 Financials
+M5DG.IDX	5-Day Hi-Lo Russell 1000
+M5DH.IDX	5-Day Hi-Lo Price GT $10
+M5DI.IDX	5-Day Hi-Lo S&P 500 Industrials
+M5DJ.IDX	5-Day Hi-Lo S&P 500 Utilities
+M5DK.IDX	5-Day Hi-Lo S&P 500 Info Tech
+M5DL.IDX	5-Day Hi-Lo Price Lt $10
+M5DM.IDX	5-Day Hi-Lo S&P 500 Consumer Staples
+M5DN.IDX	5-Day Hi-Lo NYSE
+M5DO.IDX	5-Day Hi-Lo S&P 100
+M5DP.IDX	5-Day Hi-Lo S&P 500
+M5DQ.IDX	5-Day Hi-Lo Nasdaq
+M5DR.IDX	5-Day Hi-Lo S&P 500 Real Estate
+M5DS.IDX	5-Day Hi-Lo S&P 500 Health Care
+M5DT.IDX	5-Day Hi-Lo S&P 500 Energies
+M5DU.IDX	5-Day Hi-Lo Volume Lt 100K
+M5DV.IDX	5-Day Hi-Lo Volume GT 100K
+M5DW.IDX	5-Day Hi-Lo S&P 500 Telecom Srvs
+M5DX.IDX	5-Day Hi-Lo Overall
+M5DY.IDX	5-Day Hi-Lo S&P 500 Consumer Disc
+M5DZ.IDX	5-Day Hi-Lo Russell 3000
+M5HA.IDX	5-Day Highs AMEX
+M5HB.IDX	5-Day Highs S&P 500 Materials
+M5HC.IDX	5-Day Highs Russell 2000
+M5HE.IDX	5-Day Highs ETFS
+M5HF.IDX	5-Day Highs S&P 500 Financials
+M5HG.IDX	5-Day Highs Russell 1000
+M5HH.IDX	5-Day Highs Price GT $10
+M5HI.IDX	5-Day Highs S&P 500 Industrials
+M5HJ.IDX	5-Day Highs S&P 500 Utilities
+M5HK.IDX	5-Day Highs S&P 500 Info Tech
+M5HL.IDX	5-Day Highs Price Lt $10
+M5HM.IDX	5-Day Highs S&P 500 Consumer Staples
+M5HN.IDX	5-Day Highs NYSE
+M5HO.IDX	5-Day Highs S&P 100
+M5HP.IDX	5-Day Highs S&P 500
+M5HQ.IDX	5-Day Highs Nasdaq
+M5HR.IDX	5-Day Highs S&P 500 Real Estate
+M5HS.IDX	5-Day Highs S&P 500 Health Care
+M5HT.IDX	5-Day Highs S&P 500 Energies
+M5HU.IDX	5-Day Highs Volume Lt 100K
+M5HV.IDX	5-Day Highs Volume GT 100K
+M5HW.IDX	5-Day Highs S&P 500 Telecom Srvs
+M5HX.IDX	5-Day Highs Overall
+M5HY.IDX	5-Day Highs S&P 500 Consumer Disc
+M5HZ.IDX	5-Day Highs Russell 3000
+M5LA.IDX	5-Day Lows AMEX
+M5LB.IDX	5-Day Lows S&P 500 Materials
+M5LC.IDX	5-Day Lows Russell 2000
+M5LE.IDX	5-Day Lows ETFS
+M5LF.IDX	5-Day Lows S&P 500 Financials
+M5LG.IDX	5-Day Lows Russell 1000
+M5LH.IDX	5-Day Lows Price GT $10
+M5LI.IDX	5-Day Lows S&P 500 Industrials
+M5LJ.IDX	5-Day Lows S&P 500 Utilities
+M5LK.IDX	5-Day Lows S&P 500 Info Tech
+M5LL.IDX	5-Day Lows Price Lt $10
+M5LM.IDX	5-Day Lows S&P 500 Consumer Staples
+M5LN.IDX	5-Day Lows NYSE
+M5LO.IDX	5-Day Lows S&P 100
+M5LP.IDX	5-Day Lows S&P 500
+M5LQ.IDX	5-Day Lows Nasdaq
+M5LR.IDX	5-Day Lows S&P 500 Real Estate
+M5LS.IDX	5-Day Lows S&P 500 Health Care
+M5LT.IDX	5-Day Lows S&P 500 Energies
+M5LU.IDX	5-Day Lows Volume Lt 100K
+M5LV.IDX	5-Day Lows Volume GT 100K
+M5LW.IDX	5-Day Lows S&P 500 Telecom Srvs
+M5LX.IDX	5-Day Lows Overall
+M5LY.IDX	5-Day Lows S&P 500 Consumer Disc
+M5LZ.IDX	5-Day Lows Russell 3000
+M6DA.IDX	6-Month Hi-Lo AMEX
+M6DB.IDX	6-Month Hi-Lo S&P 500 Materials
+M6DC.IDX	6-Month Hi-Lo Russell 2000
+M6DE.IDX	6-Month Hi-Lo ETFS
+M6DF.IDX	6-Month Hi-Lo S&P 500 Financials
+M6DG.IDX	6-Month Hi-Lo Russell 1000
+M6DH.IDX	6-Month Hi-Lo Price GT $10
+M6DI.IDX	6-Month Hi-Lo S&P 500 Industrials
+M6DJ.IDX	6-Month Hi-Lo S&P 500 Utilities
+M6DK.IDX	6-Month Hi-Lo S&P 500 Info Tech
+M6DL.IDX	6-Month Hi-Lo Price Lt $10
+M6DM.IDX	6-Month Hi-Lo S&P 500 Consumer Staples
+M6DN.IDX	6-Month Hi-Lo NYSE
+M6DO.IDX	6-Month Hi-Lo S&P 100
+M6DP.IDX	6-Month Hi-Lo S&P 500
+M6DQ.IDX	6-Month Hi-Lo Nasdaq
+M6DR.IDX	6-Month Hi-Lo S&P 500 Real Estate
+M6DS.IDX	6-Month Hi-Lo S&P 500 Health Care
+M6DT.IDX	6-Month Hi-Lo S&P 500 Energies
+M6DU.IDX	6-Month Hi-Lo Volume Lt 100K
+M6DV.IDX	6-Month Hi-Lo Volume GT 100K
+M6DW.IDX	6-Month Hi-Lo S&P 500 Telecom Srvs
+M6DX.IDX	6-Month Hi-Lo Overall
+M6DY.IDX	6-Month Hi-Lo S&P 500 Consumer Disc
+M6DZ.IDX	6-Month Hi-Lo Russell 3000
+M6HA.IDX	6-Month Highs AMEX
+M6HB.IDX	6-Month Highs S&P 500 Materials
+M6HC.IDX	6-Month Highs Russell 2000
+M6HE.IDX	6-Month Highs ETFS
+M6HF.IDX	6-Month Highs S&P 500 Financials
+M6HG.IDX	6-Month Highs Russell 1000
+M6HH.IDX	6-Month Highs Price GT $10
+M6HI.IDX	6-Month Highs S&P 500 Industrials
+M6HJ.IDX	6-Month Highs S&P 500 Utilities
+M6HK.IDX	6-Month Highs S&P 500 Info Tech
+M6HL.IDX	6-Month Highs Price Lt $10
+M6HM.IDX	6-Month Highs S&P 500 Consumer Staples
+M6HN.IDX	6-Month Highs NYSE
+M6HO.IDX	6-Month Highs S&P 100
+M6HP.IDX	6-Month Highs S&P 500
+M6HQ.IDX	6-Month Highs Nasdaq
+M6HR.IDX	6-Month Highs S&P 500 Real Estate
+M6HS.IDX	6-Month Highs S&P 500 Health Care
+M6HT.IDX	6-Month Highs S&P 500 Energies
+M6HU.IDX	6-Month Highs Volume Lt 100K
+M6HV.IDX	6-Month Highs Volume GT 100K
+M6HW.IDX	6-Month Highs S&P 500 Telecom Srvs
+M6HX.IDX	6-Month Highs Overall
+M6HY.IDX	6-Month Highs S&P 500 Consumer Disc
+M6HZ.IDX	6-Month Highs Russell 3000
+M6LA.IDX	6-Month Lows AMEX
+M6LB.IDX	6-Month Lows S&P 500 Materials
+M6LC.IDX	6-Month Lows Russell 2000
+M6LE.IDX	6-Month Lows ETFS
+M6LF.IDX	6-Month Lows S&P 500 Financials
+M6LG.IDX	6-Month Lows Russell 1000
+M6LH.IDX	6-Month Lows Price GT $10
+M6LI.IDX	6-Month Lows S&P 500 Industrials
+M6LJ.IDX	6-Month Lows S&P 500 Utilities
+M6LK.IDX	6-Month Lows S&P 500 Info Tech
+M6LL.IDX	6-Month Lows Price Lt $10
+M6LM.IDX	6-Month Lows S&P 500 Consumer Staples
+M6LN.IDX	6-Month Lows NYSE
+M6LO.IDX	6-Month Lows S&P 100
+M6LP.IDX	6-Month Lows S&P 500
+M6LQ.IDX	6-Month Lows Nasdaq
+M6LR.IDX	6-Month Lows S&P 500 Real Estate
+M6LS.IDX	6-Month Lows S&P 500 Health Care
+M6LT.IDX	6-Month Lows S&P 500 Energies
+M6LU.IDX	6-Month Lows Volume Lt 100K
+M6LV.IDX	6-Month Lows Volume GT 100K
+M6LW.IDX	6-Month Lows S&P 500 Telecom Srvs
+M6LX.IDX	6-Month Lows Overall
+M6LY.IDX	6-Month Lows S&P 500 Consumer Disc
+M6LZ.IDX	6-Month Lows Russell 3000
+MADA.IDX	52-Week Hi-Lo AMEX
+MADB.IDX	52-Week Hi-Lo S&P 500 Materials
+MADC.IDX	52-Week Hi-Lo Russell 2000
+MADE.IDX	52-Week Hi-Lo ETFS
+MADF.IDX	52-Week Hi-Lo S&P 500 Financials
+MADG.IDX	52-Week Hi-Lo Russell 1000
+MADH.IDX	52-Week Hi-Lo Price GT $10
+MADI.IDX	52-Week Hi-Lo S&P 500 Industrials
+MADJ.IDX	52-Week Hi-Lo S&P 500 Utilities
+MADK.IDX	52-Week Hi-Lo S&P 500 Info Tech
+MADL.IDX	52-Week Hi-Lo Price Lt $10
+MADM.IDX	52-Week Hi-Lo S&P 500 Consumer Staples
+MADN.IDX	52-Week Hi-Lo NYSE
+MADO.IDX	52-Week Hi-Lo S&P 100
+MADP.IDX	52-Week Hi-Lo S&P 500
+MADQ.IDX	52-Week Hi-Lo Nasdaq
+MADR.IDX	52-Week Hi-Lo S&P 500 Real Estate
+MADS.IDX	52-Week Hi-Lo S&P 500 Health Care
+MADT.IDX	52-Week Hi-Lo S&P 500 Energies
+MADU.IDX	52-Week Hi-Lo Volume Lt 100K
+MADV.IDX	52-Week Hi-Lo Volume GT 100K
+MADW.IDX	52-Week Hi-Lo S&P 500 Telecom Srvs
+MADX.IDX	52-Week Hi-Lo Overall
+MADY.IDX	52-Week Hi-Lo S&P 500 Consumer Disc
+MADZ.IDX	52-Week Hi-Lo Russell 3000
+MAHA.IDX	52-Week Highs AMEX
+MAHB.IDX	52-Week Highs S&P 500 Materials
+MAHC.IDX	52-Week Highs Russell 2000
+MAHE.IDX	52-Week Highs ETFS
+MAHF.IDX	52-Week Highs S&P 500 Financials
+MAHG.IDX	52-Week Highs Russell 1000
+MAHH.IDX	52-Week Highs Price GT $10
+MAHI.IDX	52-Week Highs S&P 500 Industrials
+MAHJ.IDX	52-Week Highs S&P 500 Utilities
+MAHK.IDX	52-Week Highs S&P 500 Info Tech
+MAHL.IDX	52-Week Highs Price Lt $10
+MAHM.IDX	52-Week Highs S&P 500 Consumer Staples
+MAHN.IDX	52-Week Highs NYSE
+MAHO.IDX	52-Week Highs S&P 100
+MAHP.IDX	52-Week Highs S&P 500
+MAHQ.IDX	52-Week Highs Nasdaq
+MAHR.IDX	52-Week Highs S&P 500 Real Estate
+MAHS.IDX	52-Week Highs S&P 500 Health Care
+MAHT.IDX	52-Week Highs S&P 500 Energies
+MAHU.IDX	52-Week Highs Volume Lt 100K
+MAHV.IDX	52-Week Highs Volume GT 100K
+MAHW.IDX	52-Week Highs S&P 500 Telecom Srvs
+MAHX.IDX	52-Week Highs Overall
+MAHY.IDX	52-Week Highs S&P 500 Consumer Disc
+MAHZ.IDX	52-Week Highs Russell 3000
+MALA.IDX	52-Week Lows AMEX
+MALB.IDX	52-Week Lows S&P 500 Materials
+MALC.IDX	52-Week Lows Russell 2000
+MALE.IDX	52-Week Lows ETFS
+MALF.IDX	52-Week Lows S&P 500 Financials
+MALG.IDX	52-Week Lows Russell 1000
+MALH.IDX	52-Week Lows Price GT $10
+MALI.IDX	52-Week Lows S&P 500 Industrials
+MALJ.IDX	52-Week Lows S&P 500 Utilities
+MALK.IDX	52-Week Lows S&P 500 Info Tech
+MALL.IDX	52-Week Lows Price Lt $10
+MALM.IDX	52-Week Lows S&P 500 Consumer Staples
+MALN.IDX	52-Week Lows NYSE
+MALO.IDX	52-Week Lows S&P 100
+MALP.IDX	52-Week Lows S&P 500
+MALQ.IDX	52-Week Lows Nasdaq
+MALR.IDX	52-Week Lows S&P 500 Real Estate
+MALS.IDX	52-Week Lows S&P 500 Health Care
+MALT.IDX	52-Week Lows S&P 500 Energies
+MALU.IDX	52-Week Lows Volume Lt 100K
+MALV.IDX	52-Week Lows Volume GT 100K
+MALW.IDX	52-Week Lows S&P 500 Telecom Srvs
+MALX.IDX	52-Week Lows Overall
+MALY.IDX	52-Week Lows S&P 500 Consumer Disc
+MALZ.IDX	52-Week Lows Russell 3000
+MERV.IDX	Merval - Argentina
+MMFD.IDX	Percent of Stocks Above 5-Day Average
+MMFI.IDX	Percent of Stocks Above 50-Day Average
+MMOF.IDX	Percent of Stocks Above 150-Day Average
+MMOH.IDX	Percent of Stocks Above 100-Day Average
+MMTH.IDX	Percent of Stocks Above 200-Day Average
+MMTW.IDX	Percent of Stocks Above 20-Day Average
+MNFD.IDX	Percent Above 5-Day Average Yesterday
+MNFI.IDX	Percent Above 50-Day Average Yesterday
+MNOF.IDX	Percent Above 150-Day Average Yesterday
+MNOH.IDX	Percent Above 100-Day Average Yesterday
+MNTH.IDX	Percent Above 200-Day Average Yesterday
+MNTW.IDX	Percent Above 20-Day Average Yesterday
+MOFD.IDX	Percent Above 5-Day Average Last Week
+MOFI.IDX	Percent Above 50-Day Average Last Week
+MOOF.IDX	Percent Above 150-Day Average Last Week
+MOOH.IDX	Percent Above 100-Day Average Last Week
+MOTH.IDX	Percent Above 200-Day Average Last Week
+MOTW.IDX	Percent Above 20-Day Average Last Week
+MPFD.IDX	Percent Above 5-Day Average Last Month
+MPFI.IDX	Percent Above 50-Day Average Last Month
+MPOF.IDX	Percent Above 150-Day Average Last Month
+MPOH.IDX	Percent Above 100-Day Average Last Month
+MPTH.IDX	Percent Above 200-Day Average Last Month
+MPTW.IDX	Percent Above 20-Day Average Last Month
+MTFD.IDX	TSX Percent of Stocks Above 5-Day Average
+MTFI.IDX	TSX Percent of Stocks Above 50-Day Average
+MTOF.IDX	TSX Percent of Stocks Above 150-Day Average
+MTOH.IDX	TSX Percent of Stocks Above 100-Day Average
+MTTH.IDX	TSX Percent of Stocks Above 200-Day Average
+MTTW.IDX	TSX Percent of Stocks Above 20-Day Average
+MUFD.IDX	TSX Percent Above 5-Day Average Yesterday
+MUFI.IDX	TSX Percent Above 50-Day Average Yesterday
+MUOF.IDX	TSX Percent Above 150-Day Average Yesterday
+MUOH.IDX	TSX Percent Above 100-Day Average Yesterday
+MUTH.IDX	TSX Percent Above 200-Day Average Yesterday
+MUTW.IDX	TSX Percent Above 20-Day Average Yesterday
+MVFD.IDX	TSX Percent Above 5-Day Average Last Week
+MVFI.IDX	TSX Percent Above 50-Day Average Last Week
+MVOF.IDX	TSX Percent Above 150-Day Average Last Week
+MVOH.IDX	TSX Percent Above 100-Day Average Last Week
+MVTH.IDX	TSX Percent Above 200-Day Average Last Week
+MVTW.IDX	TSX Percent Above 20-Day Average Last Week
+MWFD.IDX	TSX Percent Above 5-Day Average Last Month
+MWFI.IDX	TSX Percent Above 50-Day Average Last Month
+MWOF.IDX	TSX Percent Above 150-Day Average Last Month
+MWOH.IDX	TSX Percent Above 100-Day Average Last Month
+MWTH.IDX	TSX Percent Above 200-Day Average Last Month
+MWTW.IDX	TSX Percent Above 20-Day Average Last Month
+MXX.IDX	Mexico IPC
+MYDA.IDX	YTD Hi-Lo AMEX
+MYDB.IDX	YTD Hi-Lo S&P 500 Materials
+MYDC.IDX	YTD Hi-Lo Russell 2000
+MYDE.IDX	YTD Hi-Lo ETFS
+MYDF.IDX	YTD Hi-Lo S&P 500 Financials
+MYDG.IDX	YTD Hi-Lo Russell 1000
+MYDH.IDX	YTD Hi-Lo Price GT $10
+MYDI.IDX	YTD Hi-Lo S&P 500 Industrials
+MYDJ.IDX	YTD Hi-Lo S&P 500 Utilities
+MYDK.IDX	YTD Hi-Lo S&P 500 Info Tech
+MYDL.IDX	YTD Hi-Lo Price Lt $10
+MYDM.IDX	YTD Hi-Lo S&P 500 Consumer Staples
+MYDN.IDX	YTD Hi-Lo NYSE
+MYDO.IDX	YTD Hi-Lo S&P 100
+MYDP.IDX	YTD Hi-Lo S&P 500
+MYDQ.IDX	YTD Hi-Lo Nasdaq
+MYDR.IDX	YTD Hi-Lo S&P 500 Real Estate
+MYDS.IDX	YTD Hi-Lo S&P 500 Health Care
+MYDT.IDX	YTD Hi-Lo S&P 500 Energies
+MYDU.IDX	YTD Hi-Lo Volume Lt 100K
+MYDV.IDX	YTD Hi-Lo Volume GT 100K
+MYDW.IDX	YTD Hi-Lo S&P 500 Telecom Srvs
+MYDX.IDX	YTD Hi-Lo Overall
+MYDY.IDX	YTD Hi-Lo S&P 500 Consumer Disc
+MYDZ.IDX	YTD Hi-Lo Russell 3000
+MYHA.IDX	YTD Highs AMEX
+MYHB.IDX	YTD Highs S&P 500 Materials
+MYHC.IDX	YTD Highs Russell 2000
+MYHE.IDX	YTD Highs ETFS
+MYHF.IDX	YTD Highs S&P 500 Financials
+MYHG.IDX	YTD Highs Russell 1000
+MYHH.IDX	YTD Highs Price GT $10
+MYHI.IDX	YTD Highs S&P 500 Industrials
+MYHJ.IDX	YTD Highs S&P 500 Utilities
+MYHK.IDX	YTD Highs S&P 500 Info Tech
+MYHL.IDX	YTD Highs Price Lt $10
+MYHM.IDX	YTD Highs S&P 500 Consumer Staples
+MYHN.IDX	YTD Highs NYSE
+MYHO.IDX	YTD Highs S&P 100
+MYHP.IDX	YTD Highs S&P 500
+MYHQ.IDX	YTD Highs Nasdaq
+MYHR.IDX	YTD Highs S&P 500 Real Estate
+MYHS.IDX	YTD Highs S&P 500 Health Care
+MYHT.IDX	YTD Highs S&P 500 Energies
+MYHU.IDX	YTD Highs Volume Lt 100K
+MYHV.IDX	YTD Highs Volume GT 100K
+MYHW.IDX	YTD Highs S&P 500 Telecom Srvs
+MYHX.IDX	YTD Highs Overall
+MYHY.IDX	YTD Highs S&P 500 Consumer Disc
+MYHZ.IDX	YTD Highs Russell 3000
+MYLA.IDX	YTD Lows AMEX
+MYLB.IDX	YTD Lows S&P 500 Materials
+MYLC.IDX	YTD Lows Russell 2000
+MYLE.IDX	YTD Lows ETFS
+MYLF.IDX	YTD Lows S&P 500 Financials
+MYLG.IDX	YTD Lows Russell 1000
+MYLH.IDX	YTD Lows Price GT $10
+MYLI.IDX	YTD Lows S&P 500 Industrials
+MYLJ.IDX	YTD Lows S&P 500 Utilities
+MYLK.IDX	YTD Lows S&P 500 Info Tech
+MYLL.IDX	YTD Lows Price Lt $10
+MYLM.IDX	YTD Lows S&P 500 Consumer Staples
+MYLN.IDX	YTD Lows NYSE
+MYLO.IDX	YTD Lows S&P 100
+MYLP.IDX	YTD Lows S&P 500
+MYLQ.IDX	YTD Lows Nasdaq
+MYLR.IDX	YTD Lows S&P 500 Real Estate
+MYLS.IDX	YTD Lows S&P 500 Health Care
+MYLT.IDX	YTD Lows S&P 500 Energies
+MYLU.IDX	YTD Lows Volume Lt 100K
+MYLV.IDX	YTD Lows Volume GT 100K
+MYLW.IDX	YTD Lows S&P 500 Telecom Srvs
+MYLX.IDX	YTD Lows Overall
+MYLY.IDX	YTD Lows S&P 500 Consumer Disc
+MYLZ.IDX	YTD Lows Russell 3000
+N1DA.IDX	1-Month Hi-Lo S&P 600
+N1DB.IDX	1-Month Hi-Lo S&P 400
+N1DC.IDX	1-Month Hi-Lo Nasdaq 100
+N1DD.IDX	1-Month Hi-Lo Dow Indu
+N1DE.IDX	1-Month Hi-Lo Dow Comp
+N1DF.IDX	1-Month Hi-Lo Dow Tran
+N1DG.IDX	1-Month Hi-Lo Dow Util
+N1DH.IDX	1-Month Hi-Lo TSX Comp
+N1DI.IDX	1-Month Hi-Lo TSX 60
+N1DJ.IDX	1-Month Hi-Lo TSX Venture
+N1DK.IDX	1-Month Hi-Lo TSX
+N1DL.IDX	1-Month Hi-Lo TSXV
+N1DM.IDX	1-Month Hi-Lo CSE
+N1DN.IDX	1-Month Hi-Lo Canada
+N1DO.IDX	1-Month Hi-Lo Nasdaq Comp
+N1DP.IDX	1-Month Hi-Lo CAD ETFS
+N1DU.IDX	1-Month Hi-Lo OTC US
+N1DV.IDX	1-Month Hi-Lo S&P ESG
+N1DY.IDX	1-Month Hi-Lo S&P 500 Value
+N1DZ.IDX	1-Month Hi-Lo S&P 500 Growth
+N1HA.IDX	1-Month Highs S&P 600
+N1HB.IDX	1-Month Highs S&P 400
+N1HC.IDX	1-Month Highs Nasdaq 100
+N1HD.IDX	1-Month Highs Dow Indu
+N1HE.IDX	1-Month Highs Dow Comp
+N1HF.IDX	1-Month Highs Dow Tran
+N1HG.IDX	1-Month Highs Dow Util
+N1HH.IDX	1-Month Highs TSX Comp
+N1HI.IDX	1-Month Highs TSX 60
+N1HJ.IDX	1-Month Highs TSX Venture
+N1HK.IDX	1-Month Highs TSX
+N1HL.IDX	1-Month Highs TSXV
+N1HM.IDX	1-Month Highs CSE
+N1HN.IDX	1-Month Highs Canada
+N1HO.IDX	1-Month Highs Nasdaq Comp
+N1HP.IDX	1-Month Highs CAD ETFS
+N1HU.IDX	1-Month Highs OTC US
+N1HV.IDX	1-Month Highs S&P ESG
+N1HY.IDX	1-Month Highs S&P 500 Value
+N1HZ.IDX	1-Month Highs S&P 500 Growth
+N1LA.IDX	1-Month Lows S&P 600
+N1LB.IDX	1-Month Lows S&P 400
+N1LC.IDX	1-Month Lows Nasdaq 100
+N1LD.IDX	1-Month Lows Dow Indu
+N1LE.IDX	1-Month Lows Dow Comp
+N1LF.IDX	1-Month Lows Dow Tran
+N1LG.IDX	1-Month Lows Dow Util
+N1LH.IDX	1-Month Lows TSX Comp
+N1LI.IDX	1-Month Lows TSX 60
+N1LJ.IDX	1-Month Lows TSX Venture
+N1LK.IDX	1-Month Lows TSX
+N1LL.IDX	1-Month Lows TSXV
+N1LM.IDX	1-Month Lows CSE
+N1LN.IDX	1-Month Lows Canada
+N1LO.IDX	1-Month Lows Nasdaq Comp
+N1LP.IDX	1-Month Lows CAD ETFS
+N1LU.IDX	1-Month Lows OTC US
+N1LV.IDX	1-Month Lows S&P ESG
+N1LY.IDX	1-Month Lows S&P 500 Value
+N1LZ.IDX	1-Month Lows S&P 500 Growth
+N3DA.IDX	3-Month Hi-Lo S&P 600
+N3DB.IDX	3-Month Hi-Lo S&P 400
+N3DC.IDX	3-Month Hi-Lo Nasdaq 100
+N3DD.IDX	3-Month Hi-Lo Dow Indu
+N3DE.IDX	3-Month Hi-Lo Dow Comp
+N3DF.IDX	3-Month Hi-Lo Dow Tran
+N3DG.IDX	3-Month Hi-Lo Dow Util
+N3DH.IDX	3-Month Hi-Lo TSX Comp
+N3DI.IDX	3-Month Hi-Lo TSX 60
+N3DJ.IDX	3-Month Hi-Lo TSX Venture
+N3DK.IDX	3-Month Hi-Lo TSX
+N3DL.IDX	3-Month Hi-Lo TSXV
+N3DM.IDX	3-Month Hi-Lo CSE
+N3DN.IDX	3-Month Hi-Lo Canada
+N3DO.IDX	3-Month Hi-Lo Nasdaq Comp
+N3DP.IDX	3-Month Hi-Lo CAD ETFS
+N3DU.IDX	3-Month Hi-Lo OTC US
+N3DV.IDX	3-Month Hi-Lo S&P ESG
+N3DY.IDX	3-Month Hi-Lo S&P 500 Value
+N3DZ.IDX	3-Month Hi-Lo S&P 500 Growth
+N3HA.IDX	3-Month Highs S&P 600
+N3HB.IDX	3-Month Highs S&P 400
+N3HC.IDX	3-Month Highs Nasdaq 100
+N3HD.IDX	3-Month Highs Dow Indu
+N3HE.IDX	3-Month Highs Dow Comp
+N3HF.IDX	3-Month Highs Dow Tran
+N3HG.IDX	3-Month Highs Dow Util
+N3HH.IDX	3-Month Highs TSX Comp
+N3HI.IDX	3-Month Highs TSX 60
+N3HJ.IDX	3-Month Highs TSX Venture
+N3HK.IDX	3-Month Highs TSX
+N3HL.IDX	3-Month Highs TSXV
+N3HM.IDX	3-Month Highs CSE
+N3HN.IDX	3-Month Highs Canada
+N3HO.IDX	3-Month Highs Nasdaq Comp
+N3HP.IDX	3-Month Highs CAD ETFS
+N3HU.IDX	3-Month Highs OTC US
+N3HV.IDX	3-Month Highs S&P ESG
+N3HY.IDX	3-Month Highs S&P 500 Value
+N3HZ.IDX	3-Month Highs S&P 500 Growth
+N3LA.IDX	3-Month Lows S&P 600
+N3LB.IDX	3-Month Lows S&P 400
+N3LC.IDX	3-Month Lows Nasdaq 100
+N3LD.IDX	3-Month Lows Dow Indu
+N3LE.IDX	3-Month Lows Dow Comp
+N3LF.IDX	3-Month Lows Dow Tran
+N3LG.IDX	3-Month Lows Dow Util
+N3LH.IDX	3-Month Lows TSX Comp
+N3LI.IDX	3-Month Lows TSX 60
+N3LJ.IDX	3-Month Lows TSX Venture
+N3LK.IDX	3-Month Lows TSX
+N3LL.IDX	3-Month Lows TSXV
+N3LM.IDX	3-Month Lows CSE
+N3LN.IDX	3-Month Lows Canada
+N3LO.IDX	3-Month Lows Nasdaq Comp
+N3LP.IDX	3-Month Lows CAD ETFS
+N3LU.IDX	3-Month Lows OTC US
+N3LV.IDX	3-Month Lows S&P ESG
+N3LY.IDX	3-Month Lows S&P 500 Value
+N3LZ.IDX	3-Month Lows S&P 500 Growth
+N5DA.IDX	5-Day Hi-Lo S&P 600
+N5DB.IDX	5-Day Hi-Lo S&P 400
+N5DC.IDX	5-Day Hi-Lo Nasdaq 100
+N5DD.IDX	5-Day Hi-Lo Dow Indu
+N5DE.IDX	5-Day Hi-Lo Dow Comp
+N5DF.IDX	5-Day Hi-Lo Dow Tran
+N5DG.IDX	5-Day Hi-Lo Dow Util
+N5DH.IDX	5-Day Hi-Lo TSX Comp
+N5DI.IDX	5-Day Hi-Lo TSX 60
+N5DJ.IDX	5-Day Hi-Lo TSX Venture
+N5DK.IDX	5-Day Hi-Lo TSX
+N5DL.IDX	5-Day Hi-Lo TSXV
+N5DM.IDX	5-Day Hi-Lo CSE
+N5DN.IDX	5-Day Hi-Lo Canada
+N5DO.IDX	5-Day Hi-Lo Nasdaq Comp
+N5DP.IDX	5-Day Hi-Lo CAD ETFS
+N5DU.IDX	5-Day Hi-Lo OTC US
+N5DV.IDX	5-Day Hi-Lo S&P ESG
+N5DY.IDX	5-Day Hi-Lo S&P 500 Value
+N5DZ.IDX	5-Day Hi-Lo S&P 500 Growth
+N5HA.IDX	5-Day Highs S&P 600
+N5HB.IDX	5-Day Highs S&P 400
+N5HC.IDX	5-Day Highs Nasdaq 100
+N5HD.IDX	5-Day Highs Dow Indu
+N5HE.IDX	5-Day Highs Dow Comp
+N5HF.IDX	5-Day Highs Dow Tran
+N5HG.IDX	5-Day Highs Dow Util
+N5HH.IDX	5-Day Highs TSX Comp
+N5HI.IDX	5-Day Highs TSX 60
+N5HJ.IDX	5-Day Highs TSX Venture
+N5HK.IDX	5-Day Highs TSX
+N5HL.IDX	5-Day Highs TSXV
+N5HM.IDX	5-Day Highs CSE
+N5HN.IDX	5-Day Highs Canada
+N5HO.IDX	5-Day Highs Nasdaq Comp
+N5HP.IDX	5-Day Highs CAD ETFS
+N5HU.IDX	5-Day Highs OTC US
+N5HV.IDX	5-Day Highs S&P ESG
+N5HY.IDX	5-Day Highs S&P 500 Value
+N5HZ.IDX	5-Day Highs S&P 500 Growth
+N5LA.IDX	5-Day Lows S&P 600
+N5LB.IDX	5-Day Lows S&P 400
+N5LC.IDX	5-Day Lows Nasdaq 100
+N5LD.IDX	5-Day Lows Dow Indu
+N5LE.IDX	5-Day Lows Dow Comp
+N5LF.IDX	5-Day Lows Dow Tran
+N5LG.IDX	5-Day Lows Dow Util
+N5LH.IDX	5-Day Lows TSX Comp
+N5LI.IDX	5-Day Lows TSX 60
+N5LJ.IDX	5-Day Lows TSX Venture
+N5LK.IDX	5-Day Lows TSX
+N5LL.IDX	5-Day Lows TSXV
+N5LM.IDX	5-Day Lows CSE
+N5LN.IDX	5-Day Lows Canada
+N5LO.IDX	5-Day Lows Nasdaq Comp
+N5LP.IDX	5-Day Lows CAD ETFS
+N5LU.IDX	5-Day Lows OTC US
+N5LV.IDX	5-Day Lows S&P ESG
+N5LY.IDX	5-Day Lows S&P 500 Value
+N5LZ.IDX	5-Day Lows S&P 500 Growth
+N6DA.IDX	6-Month Hi-Lo S&P 600
+N6DB.IDX	6-Month Hi-Lo S&P 400
+N6DC.IDX	6-Month Hi-Lo Nasdaq 100
+N6DD.IDX	6-Month Hi-Lo Dow Indu
+N6DE.IDX	6-Month Hi-Lo Dow Comp
+N6DF.IDX	6-Month Hi-Lo Dow Tran
+N6DG.IDX	6-Month Hi-Lo Dow Util
+N6DH.IDX	6-Month Hi-Lo TSX Comp
+N6DI.IDX	6-Month Hi-Lo TSX 60
+N6DJ.IDX	6-Month Hi-Lo TSX Venture
+N6DK.IDX	6-Month Hi-Lo TSX
+N6DL.IDX	6-Month Hi-Lo TSXV
+N6DM.IDX	6-Month Hi-Lo CSE
+N6DN.IDX	6-Month Hi-Lo Canada
+N6DO.IDX	6-Month Hi-Lo Nasdaq Comp
+N6DP.IDX	6-Month Hi-Lo CAD ETFS
+N6DU.IDX	6-Month Hi-Lo OTC US
+N6DV.IDX	6-Month Hi-Lo S&P ESG
+N6DY.IDX	6-Month Hi-Lo S&P 500 Value
+N6DZ.IDX	6-Month Hi-Lo S&P 500 Growth
+N6HA.IDX	6-Month Highs S&P 600
+N6HB.IDX	6-Month Highs S&P 400
+N6HC.IDX	6-Month Highs Nasdaq 100
+N6HD.IDX	6-Month Highs Dow Indu
+N6HE.IDX	6-Month Highs Dow Comp
+N6HF.IDX	6-Month Highs Dow Tran
+N6HG.IDX	6-Month Highs Dow Util
+N6HH.IDX	6-Month Highs TSX Comp
+N6HI.IDX	6-Month Highs TSX 60
+N6HJ.IDX	6-Month Highs TSX Venture
+N6HK.IDX	6-Month Highs TSX
+N6HL.IDX	6-Month Highs TSXV
+N6HM.IDX	6-Month Highs CSE
+N6HN.IDX	6-Month Highs Canada
+N6HO.IDX	6-Month Highs Nasdaq Comp
+N6HP.IDX	6-Month Highs CAD ETFS
+N6HU.IDX	6-Month Highs OTC US
+N6HV.IDX	6-Month Highs S&P ESG
+N6HY.IDX	6-Month Highs S&P 500 Value
+N6HZ.IDX	6-Month Highs S&P 500 Growth
+N6LA.IDX	6-Month Lows S&P 600
+N6LB.IDX	6-Month Lows S&P 400
+N6LC.IDX	6-Month Lows Nasdaq 100
+N6LD.IDX	6-Month Lows Dow Indu
+N6LE.IDX	6-Month Lows Dow Comp
+N6LF.IDX	6-Month Lows Dow Tran
+N6LG.IDX	6-Month Lows Dow Util
+N6LH.IDX	6-Month Lows TSX Comp
+N6LI.IDX	6-Month Lows TSX 60
+N6LJ.IDX	6-Month Lows TSX Venture
+N6LK.IDX	6-Month Lows TSX
+N6LL.IDX	6-Month Lows TSXV
+N6LM.IDX	6-Month Lows CSE
+N6LN.IDX	6-Month Lows Canada
+N6LO.IDX	6-Month Lows Nasdaq Comp
+N6LP.IDX	6-Month Lows CAD ETFS
+N6LU.IDX	6-Month Lows OTC US
+N6LV.IDX	6-Month Lows S&P ESG
+N6LY.IDX	6-Month Lows S&P 500 Value
+N6LZ.IDX	6-Month Lows S&P 500 Growth
+NADA.IDX	52-Week Hi-Lo S&P 600
+NADB.IDX	52-Week Hi-Lo S&P 400
+NADC.IDX	52-Week Hi-Lo Nasdaq 100
+NADD.IDX	52-Week Hi-Lo Dow Indu
+NADE.IDX	52-Week Hi-Lo Dow Comp
+NADF.IDX	52-Week Hi-Lo Dow Tran
+NADG.IDX	52-Week Hi-Lo Dow Util
+NADH.IDX	52-Week Hi-Lo TSX Comp
+NADI.IDX	52-Week Hi-Lo TSX 60
+NADJ.IDX	52-Week Hi-Lo TSX Venture
+NADK.IDX	52-Week Hi-Lo TSX
+NADL.IDX	52-Week Hi-Lo TSXV
+NADM.IDX	52-Week Hi-Lo CSE
+NADN.IDX	52-Week Hi-Lo Canada
+NADO.IDX	52-Week Hi-Lo Nasdaq Comp
+NADP.IDX	52-Week Hi-Lo CAD ETFS
+NADU.IDX	52-Week Hi-Lo OTC US
+NADV.IDX	52-Week Hi-Lo S&P ESG
+NADY.IDX	52-Week Hi-Lo S&P 500 Value
+NADZ.IDX	52-Week Hi-Lo S&P 500 Growth
+NAHA.IDX	52-Week Highs S&P 600
+NAHB.IDX	52-Week Highs S&P 400
+NAHC.IDX	52-Week Highs Nasdaq 100
+NAHD.IDX	52-Week Highs Dow Indu
+NAHE.IDX	52-Week Highs Dow Comp
+NAHF.IDX	52-Week Highs Dow Tran
+NAHG.IDX	52-Week Highs Dow Util
+NAHH.IDX	52-Week Highs TSX Comp
+NAHI.IDX	52-Week Highs TSX 60
+NAHJ.IDX	52-Week Highs TSX Venture
+NAHK.IDX	52-Week Highs TSX
+NAHL.IDX	52-Week Highs TSXV
+NAHM.IDX	52-Week Highs CSE
+NAHN.IDX	52-Week Highs Canada
+NAHO.IDX	52-Week Highs Nasdaq Comp
+NAHP.IDX	52-Week Highs CAD ETFS
+NAHU.IDX	52-Week Highs OTC US
+NAHV.IDX	52-Week Highs S&P ESG
+NAHY.IDX	52-Week Highs S&P 500 Value
+NAHZ.IDX	52-Week Highs S&P 500 Growth
+NALA.IDX	52-Week Lows S&P 600
+NALB.IDX	52-Week Lows S&P 400
+NALC.IDX	52-Week Lows Nasdaq 100
+NALD.IDX	52-Week Lows Dow Indu
+NALE.IDX	52-Week Lows Dow Comp
+NALF.IDX	52-Week Lows Dow Tran
+NALG.IDX	52-Week Lows Dow Util
+NALH.IDX	52-Week Lows TSX Comp
+NALI.IDX	52-Week Lows TSX 60
+NALJ.IDX	52-Week Lows TSX Venture
+NALK.IDX	52-Week Lows TSX
+NALL.IDX	52-Week Lows TSXV
+NALM.IDX	52-Week Lows CSE
+NALN.IDX	52-Week Lows Canada
+NALO.IDX	52-Week Lows Nasdaq Comp
+NALP.IDX	52-Week Lows CAD ETFS
+NALU.IDX	52-Week Lows OTC US
+NALV.IDX	52-Week Lows S&P ESG
+NALY.IDX	52-Week Lows S&P 500 Value
+NALZ.IDX	52-Week Lows S&P 500 Growth
+NAST.IDX	NASDAQ Transportation Index
+NBI.IDX	Nasdaq Biotechnology
+NCFD.IDX	Nasdaq Comp Stocks Above 5-Day Average
+NCFI.IDX	Nasdaq Comp Stocks Above 50-Day Average
+NCOF.IDX	Nasdaq Comp Stocks Above 150-Day Average
+NCOH.IDX	Nasdaq Comp Stocks Above 100-Day Average
+NCTH.IDX	Nasdaq Comp Stocks Above 200-Day Average
+NCTW.IDX	Nasdaq Comp Stocks Above 20-Day Average
+NDFD.IDX	Nasdaq 100 Stocks Above 5-Day Average
+NDFI.IDX	Nasdaq 100 Stocks Above 50-Day Average
+NDOF.IDX	Nasdaq 100 Stocks Above 150-Day Average
+NDOH.IDX	Nasdaq 100 Stocks Above 100-Day Average
+NDTH.IDX	Nasdaq 100 Stocks Above 200-Day Average
+NDTW.IDX	Nasdaq 100 Stocks Above 20-Day Average
+NDXE.IDX	NASDAQ 100 Equal Weighted
+NDXT.IDX	NASDAQ 100 TECHNOLOGY
+NDXX.IDX	NASDAQ-100 Ex-Tech Sector Index
+NDY.IDX	Nasdaq 100
+NKY.IDX	Nikkei 225 Index
+NQGM.IDX	Ndaq Global Market Composite
+NQGS.IDX	NASDAQ Global Select Market Composite Index
+NSHD.IDX	NYSE Declining Stocks
+NSHF.IDX	NYSE Advances - Declines
+NSHR.IDX	NYSE Advance Decline Ratio
+NSHU.IDX	NYSE Advancing Stocks
+NVLD.IDX	NYSE Declining Volume
+NVLF.IDX	NYSE Advance Decline Volume Difference
+NVLR.IDX	NYSE Advance Decline Vol Ratio
+NVLU.IDX	NYSE Advancing Volume
+NXTQ.IDX	NASDAQ Q-50 Index
+NYA.IDX	NYSE Composite
+NYDA.IDX	YTD Hi-Lo S&P 600
+NYDB.IDX	YTD Hi-Lo S&P 400
+NYDC.IDX	YTD Hi-Lo Nasdaq 100
+NYDD.IDX	YTD Hi-Lo Dow Indu
+NYDE.IDX	YTD Hi-Lo Dow Comp
+NYDF.IDX	YTD Hi-Lo Dow Tran
+NYDG.IDX	YTD Hi-Lo Dow Util
+NYDH.IDX	YTD Hi-Lo TSX Comp
+NYDI.IDX	YTD Hi-Lo TSX 60
+NYDJ.IDX	YTD Hi-Lo TSX Venture
+NYDK.IDX	YTD Hi-Lo TSX
+NYDL.IDX	YTD Hi-Lo TSXV
+NYDM.IDX	YTD Hi-Lo CSE
+NYDN.IDX	YTD Hi-Lo Canada
+NYDO.IDX	YTD Hi-Lo Nasdaq Comp
+NYDP.IDX	YTD Hi-Lo CAD ETFS
+NYDU.IDX	YTD Hi-Lo OTC US
+NYDV.IDX	YTD Hi-Lo S&P ESG
+NYDY.IDX	YTD Hi-Lo S&P 500 Value
+NYDZ.IDX	YTD Hi-Lo S&P 500 Growth
+NYHA.IDX	YTD Highs S&P 600
+NYHB.IDX	YTD Highs S&P 400
+NYHC.IDX	YTD Highs Nasdaq 100
+NYHD.IDX	YTD Highs Dow Indu
+NYHE.IDX	YTD Highs Dow Comp
+NYHF.IDX	YTD Highs Dow Tran
+NYHG.IDX	YTD Highs Dow Util
+NYHH.IDX	YTD Highs TSX Comp
+NYHI.IDX	YTD Highs TSX 60
+NYHJ.IDX	YTD Highs TSX Venture
+NYHK.IDX	YTD Highs TSX
+NYHL.IDX	YTD Highs TSXV
+NYHM.IDX	YTD Highs CSE
+NYHN.IDX	YTD Highs Canada
+NYHO.IDX	YTD Highs Nasdaq Comp
+NYHP.IDX	YTD Highs CAD ETFS
+NYHU.IDX	YTD Highs OTC US
+NYHV.IDX	YTD Highs S&P ESG
+NYHY.IDX	YTD Highs S&P 500 Value
+NYHZ.IDX	YTD Highs S&P 500 Growth
+NYLA.IDX	YTD Lows S&P 600
+NYLB.IDX	YTD Lows S&P 400
+NYLC.IDX	YTD Lows Nasdaq 100
+NYLD.IDX	YTD Lows Dow Indu
+NYLE.IDX	YTD Lows Dow Comp
+NYLF.IDX	YTD Lows Dow Tran
+NYLG.IDX	YTD Lows Dow Util
+NYLH.IDX	YTD Lows TSX Comp
+NYLI.IDX	YTD Lows TSX 60
+NYLJ.IDX	YTD Lows TSX Venture
+NYLK.IDX	YTD Lows TSX
+NYLL.IDX	YTD Lows TSXV
+NYLM.IDX	YTD Lows CSE
+NYLN.IDX	YTD Lows Canada
+NYLO.IDX	YTD Lows Nasdaq Comp
+NYLP.IDX	YTD Lows CAD ETFS
+NYLU.IDX	YTD Lows OTC US
+NYLV.IDX	YTD Lows S&P ESG
+NYLY.IDX	YTD Lows S&P 500 Value
+NYLZ.IDX	YTD Lows S&P 500 Growth
+NZD.IDX	NZX 50 Index
+OBX.IDX	Norway OBX Index
+OEX.IDX	S&P 100 Index
+OFIN.IDX	Nasdaq Other Financial Index
+OSX.IDX	Phlx Euro Style Oil Svc Index
+PCAM.IDX	Put Call Ratio Amzn
+PCAP.IDX	Put Call Ratio Aapl
+PCBA.IDX	Put Call Ratio BA
+PCCS.IDX	Put Call Ratio Csco
+PCDI.IDX	Put Call Ratio Dis
+PCFB.IDX	Put Call Ratio Meta
+PCFR.IDX	Put Call Ratio F
+PCGO.IDX	Put Call Ratio Goog
+PCIN.IDX	Put Call Ratio Intc
+PCIW.IDX	Put Call Ratio Iwm
+PCJP.IDX	Put Call Ratio JPM
+PCMD.IDX	Put Call Ratio Amd
+PCMS.IDX	Put Call Ratio Msft
+PCP.IDX	Total Call/Put Ratio
+PCPB.IDX	Bond Call/Put Ratio
+PCPI.IDX	Index Call/Put Ratio
+PCPS.IDX	Equity Call/Put Ratio
+PCQQ.IDX	Put Call Ratio QQQ
+PCSP.IDX	Put Call Ratio Spy
+PCSX.IDX	Put Call Ratio $Spx
+PCTS.IDX	Put Call Ratio Tsla
+PCVI.IDX	Put Call Ratio $Vix
+PCVX.IDX	Put Call Ratio Vxx
+PCWM.IDX	Put Call Ratio Wmt
+PCXO.IDX	Put Call Ratio Xom
+QSHD.IDX	NASD Declining Stocks
+QSHF.IDX	NASD Advances - Declines
+QSHR.IDX	NASD Advance Decline Ratio
+QSHU.IDX	NASD Advancing Stocks
+QVLD.IDX	NASD Declining Volume
+QVLF.IDX	NASD Advance Decline Volume Difference
+QVLR.IDX	NASD Advance Decline Vol Ratio
+QVLU.IDX	NASD Advancing Volume
+R1FD.IDX	Russell 1000 Stocks Above 5-Day Average
+R1FI.IDX	Russell 1000 Stocks Above 50-Day Average
+R1OF.IDX	Russell 1000 Stocks Above 150-Day Average
+R1OH.IDX	Russell 1000 Stocks Above 100-Day Average
+R1TH.IDX	Russell 1000 Stocks Above 200-Day Average
+R1TW.IDX	Russell 1000 Stocks Above 20-Day Average
+R2FD.IDX	Russell 2000 Stocks Above 5-Day Average
+R2FI.IDX	Russell 2000 Stocks Above 50-Day Average
+R2OF.IDX	Russell 2000 Stocks Above 150-Day Average
+R2OH.IDX	Russell 2000 Stocks Above 100-Day Average
+R2TH.IDX	Russell 2000 Stocks Above 200-Day Average
+R2TW.IDX	Russell 2000 Stocks Above 20-Day Average
+R3FD.IDX	Russell 3000 Stocks Above 5-Day Average
+R3FI.IDX	Russell 3000 Stocks Above 50-Day Average
+R3OF.IDX	Russell 3000 Stocks Above 150-Day Average
+R3OH.IDX	Russell 3000 Stocks Above 100-Day Average
+R3TH.IDX	Russell 3000 Stocks Above 200-Day Average
+R3TW.IDX	Russell 3000 Stocks Above 20-Day Average
+RTS.IDX	RTSI Index
+S1FD.IDX	S&P 100 Stocks Above 5-Day Average
+S1FI.IDX	S&P 100 Stocks Above 50-Day Average
+S1OF.IDX	S&P 100 Stocks Above 150-Day Average
+S1OH.IDX	S&P 100 Stocks Above 100-Day Average
+S1TH.IDX	S&P 100 Stocks Above 200-Day Average
+S1TR.IDX	S&P 500 Automobiles & Components [TR]
+S1TW.IDX	S&P 100 Stocks Above 20-Day Average
+S2TR.IDX	S&P 500 Banks [TR]
+S3TR.IDX	S&P 500 Capital Goods [TR]
+S4FD.IDX	S&P 400 Stocks Above 5-Day Average
+S4FI.IDX	S&P 400 Stocks Above 50-Day Average
+S4OF.IDX	S&P 400 Stocks Above 150-Day Average
+S4OH.IDX	S&P 400 Stocks Above 100-Day Average
+S4TH.IDX	S&P 400 Stocks Above 200-Day Average
+S4TR.IDX	S&P 500 -Commercial & Professional Services [TR]
+S4TW.IDX	S&P 400 Stocks Above 20-Day Average
+S5FD.IDX	S&P 500 Stocks Above 5-Day Average
+S5FI.IDX	S&P 500 Stocks Above 50-Day Average
+S5OF.IDX	S&P 500 Stocks Above 150-Day Average
+S5OH.IDX	S&P 500 Stocks Above 100-Day Average
+S5TH.IDX	S&P 500 Stocks Above 200-Day Average
+S5TR.IDX	S&P 500 Consumer Durables & Apparel [TR]
+S5TW.IDX	S&P 500 Stocks Above 20-Day Average
+S6CD.IDX	S&P SmallCap600 Capped Consumer Discretionary [s
+S6CS.IDX	S&P SmallCap600 Capped Consumer Staples [sector]
+S6EP.IDX	S&P SmallCap600 Capped Energy [sector]Index
+S6FD.IDX	S&P 600 Stocks Above 5-Day Average
+S6FI.IDX	S&P 600 Stocks Above 50-Day Average
+S6FP.IDX	S&P SmallCap600 Capped Financials [sector]Index
+S6HC.IDX	S&P SmallCap600 Capped HealthCare [sector]Index
+S6IP.IDX	S&P SmallCap600 Capped Industrials [sector]Index
+S6MP.IDX	S&P SmallCap600 Capped Materials [sector]Index
+S6OF.IDX	S&P 600 Stocks Above 150-Day Average
+S6OH.IDX	S&P 600 Stocks Above 100-Day Average
+S6TH.IDX	S&P 600 Stocks Above 200-Day Average
+S6TP.IDX	S&P SmallCap600 Capped Information Technology [s
+S6TR.IDX	S&P 500 Consumer Services [TR]
+S6TW.IDX	S&P 600 Stocks Above 20-Day Average
+S6UP.IDX	S&P SmallCap600 Capped Utilities & Telecom Servi
+S7TR.IDX	S&P 500 Diversified Financials [TR]
+S8TR.IDX	S&P 500 Energy [TR]
+S9TR.IDX	S&P 500 Food & Staples Retailing [TR]
+SAAB.IDX	S&P Asia Infrastructure Index
+SAER.IDX	S&P GSCI Agriculture Capped Component 35/20 EUR
+SAIE.IDX	S&P Africa 40 Index [EURO]
+SAIU.IDX	S&P Africa 40 Index
+SAPE.IDX	S&P Asia Property 40 Index
+SAPT.IDX	S&P GSCI All Metals Capped Commodity 35/20 EUR I
+SAPU.IDX	S&P Asia Property 40 Index [EURO]
+SAQA.IDX	S&P Global Water Index
+SAQE.IDX	S&P Global Water Index [EURO]
+SAUE.IDX	S&P GSCI Agriculture Capped Component 35/20 EUR
+SBER.IDX	S&P GSCI Biofuel Index Excess Return
+SBES.IDX	BLO M Emerging Shariah Index [NetTR]
+SBFD.IDX	S&P Materials Stocks Above 5-Day Average
+SBFI.IDX	S&P Materials Stocks Above 50-Day Average
+SBIX.IDX	S&P 500 Banks non-TR
+SBNP.IDX	S&P Custom/BNP Paribas SPECTRUMUS Sect or Moment
+SBOF.IDX	S&P Materials Stocks Above 150-Day Average
+SBOH.IDX	S&P Materials Stocks Above 100-Day Average
+SBTH.IDX	S&P Materials Stocks Above 200-Day Average
+SBTR.IDX	S&P GSCI Biofuel Index Total Return
+SBTW.IDX	S&P Materials Stocks Above 20-Day Average
+SBUP.IDX	S&P Food & Beverage Select Industry Index
+SCII.IDX	CAT China Infrastructure [TR]
+SCIR.IDX	S&P GSCI North American Copper Index Excess Retu
+SCIS.IDX	S&P GSCI North American Copper Index
+SCIT.IDX	S&P GSCI North American Copper Index Total Retur
+SCSC.IDX	S&P /CITIC 300 Index
+SCSE.IDX	S&P /CITIC 50 Index
+SCUT.IDX	S&P/CITIC 300 -  Utilities [Sector]
+SCWI.IDX	CAT China Water [TR]
+SCWP.IDX	S&P Developed Ex-U.S.Property [USDollar]
+SDEW.IDX	S&P 400 Midcap Equal Weighted Index
+SDIP.IDX	S&P DCFI Index Excess Return
+SDIS.IDX	S&P DCFIIndex
+SDIT.IDX	S&P DCFI Index Total Return
+SDPI.IDX	Goldman Sachs BRICs Nifty 50 Developed Markets I
+SDTI.IDX	Goldman Sachs BRICs Nifty 50 Developed Markets I
+SDTR.IDX	S&P 500 Food Beverage & Tobacco [TR]
+SEAN.IDX	S&P Southeast Asia 40 Index [NetTR]
+SECA.IDX	S&P GSCI Enhanced Commodity Index
+SECB.IDX	S&P GSCI Enhanced Commodity Index Excess Return
+SECC.IDX	S&P GSCI Enhanced Commodity Index Total Return
+SEFD.IDX	S&P Energies Stocks Above 5-Day Average
+SEFI.IDX	S&P Energies Stocks Above 50-Day Average
+SEIE.IDX	S&P Global Eco Index [EURO]
+SEIT.IDX	S&P Global REIT [AUD]
+SEIU.IDX	S&P Global Eco Index
+SEOF.IDX	S&P Energies Stocks Above 150-Day Average
+SEOH.IDX	S&P Energies Stocks Above 100-Day Average
+SETH.IDX	S&P Energies Stocks Above 200-Day Average
+SETW.IDX	S&P Energies Stocks Above 20-Day Average
+SFFD.IDX	S&P Financials Stocks Above 5-Day Average
+SFFI.IDX	S&P Financials Stocks Above 50-Day Average
+SFOF.IDX	S&P Financials Stocks Above 150-Day Average
+SFOH.IDX	S&P Financials Stocks Above 100-Day Average
+SFTH.IDX	S&P Financials Stocks Above 200-Day Average
+SFTR.IDX	S&P 500 - Pharmaceuticals Biotechnology & Life
+SFTW.IDX	S&P Financials Stocks Above 20-Day Average
+SG0A.IDX	S&P GSCI Agriculture & Live Stock Index
+SG0B.IDX	S&P GSCI Agriculture & Live Stock Index Excess R
+SG0C.IDX	S&P GSCI Agriculture & Live Stock Index Total Re
+SG0D.IDX	S&P GSCI Agriculture Index Excess Return
+SG0E.IDX	S&P GSCI Agriculture Index Total Return
+SG0F.IDX	S&P GSCI All Cattle Index
+SG0G.IDX	S&P GSCI All Cattle Index Excess Return
+SG0H.IDX	S&P GSCI All Cattle Index Total Return
+SG0I.IDX	S&P GSCI All Crude Index
+SG1A.IDX	S&P GSCI All Crude Index Total Return
+SG1B.IDX	S&P GSCI All Wheat Index
+SG1C.IDX	S&P GSCI All Wheat Index Excess Return
+SG1D.IDX	S&P GSCI All Wheat Index Total Return
+SG1E.IDX	S&P GSCI Aluminum Index
+SG1F.IDX	S&P GSCI Aluminum Index Excess Return
+SG1G.IDX	S&P GSCI Aluminum Index Total Return
+SG1H.IDX	S&P GSCI Soybean Oil Index
+SG1I.IDX	S&P GSCI Soybean Oil Index Excess Return
+SG1J.IDX	S&P GSCI All Crude Index Excess Return
+SG2A.IDX	S&P GSCI Brent Crude Index
+SG2B.IDX	S&P GSCI Brent Crude Index Excess Return
+SG2C.IDX	S&P GSCI Brent Crude Index Total Return
+SG2D.IDX	S&P GSCI Cocoa Index
+SG2E.IDX	S&P GSCI Cocoa Index Excess Return
+SG2F.IDX	S&P GSCI Cocoa Index Total Return
+SG2G.IDX	S&P GSCI Coffee Index Co Index
+SG2H.IDX	S&P GSCI Coffee Index Excess Return
+SG2I.IDX	S&P GSCI Coffee Index Total Return
+SG2J.IDX	S&P GSCI Soybean Oil Index Total Return
+SG3A.IDX	S&P GSCI Copper Index Excess Return
+SG3B.IDX	S&P GSCI Copper Index Total Return
+SG3C.IDX	S&P GSCI Corn Index
+SG3D.IDX	S&P GSCI Corn Index Excess Return
+SG3E.IDX	S&P GSCI Corn Index Total Return
+SG3F.IDX	S&P GSCI Cotton Index
+SG3G.IDX	S&P GSCI Cotton Index Excess Return
+SG3H.IDX	S&P GSCI Cotton Index Total Return
+SG3I.IDX	S&P GSCI Crude Oil Index
+SG3J.IDX	S&P GSCI Copper Index
+SG4A.IDX	S&P GSCI Crude Oil Index Total Return
+SG4B.IDX	S&P GSCI Energy and Metals Index
+SG4C.IDX	S&P GSCI Energy and Metals Index Excess Return
+SG4D.IDX	S&P GSCI Energy and Metals Index Total Return
+SG4E.IDX	S&P GSCI Energy Index Excess Return
+SG4F.IDX	S&P GSCI Energy Index Total Return
+SG4G.IDX	S&P GSCI Feeder Cattle Index
+SG4H.IDX	S&P GSCI Feeder Cattle Index Excess Return
+SG4I.IDX	S&P GSCI Feeder Cattle Index Total Return
+SG4J.IDX	S&P GSCI Crude Oil Index Excess Return
+SG5A.IDX	S&P GSCI Gas Oil Index Excess Return
+SG5B.IDX	S&P GSCI Gas Oil Index Total Return
+SG5C.IDX	S&P GSCI Gold Index
+SG5D.IDX	S&P GSCI Gold Index Excess Return
+SG5E.IDX	S&P GSCI Gold Index Total Return
+SG5F.IDX	S&P GSCI Grains Index
+SG5G.IDX	S&P GSCI Grains Index Excess Return
+SG5H.IDX	S&P GSCI Grains Index Total Return
+SG5I.IDX	S&P GSCI Heating Oil Index
+SG5J.IDX	S&P GSCI Gas Oil Index
+SG6A.IDX	S&P GSCI Heating Oil Index Total Return
+SG6B.IDX	S&P GSCI Industrial Metals Index Excess Return
+SG6C.IDX	S&P GSCI Industrial Metals Index Total Return
+SG6D.IDX	S&P GSCI Kansas Wheat Index
+SG6E.IDX	S&P GSCI Kansas Wheat Index Excess Return
+SG6F.IDX	S&P GSCI Kansas Wheat Index Total Return
+SG6G.IDX	S&P GSCI Lead Index
+SG6H.IDX	S&P GSCI Lead Index Excess Return
+SG6I.IDX	S&P GSCI Lead Index Total Return
+SG6J.IDX	S&P GSCI Heating Oil Index Excess Return
+SG7A.IDX	S&P GSCI Lean Hogs Index Excess Return
+SG7B.IDX	S&P GSCI Lean Hogs Index Total Return
+SG7C.IDX	S&P GSCI Light Energy Index [CPW4]
+SG7D.IDX	S&P GSCI Light Energy Index [CPW4] Excess Return
+SG7E.IDX	S&P GSCI Light Energy Index [CPW4] Total Return
+SG7F.IDX	S&P GSCI Live Cattle Index
+SG7G.IDX	S&P GSCI Live Cattle Index Excess Return
+SG7H.IDX	S&P GSCI Live Cattle Index Total Return
+SG7I.IDX	S&P GSCI Livestock Index Excess Return
+SG7J.IDX	S&P GSCI Lean Hogs Index
+SG8A.IDX	S&P GSCI Natural Gas Index
+SG8B.IDX	S&P GSCI Natural Gas Index Excess Return
+SG8C.IDX	S&P GSCI Natural Gas Index Total Return
+SG8D.IDX	S&P GSCI Nickel Index
+SG8E.IDX	S&P GSCI Nickel Index Excess Return
+SG8F.IDX	S&P GSCI Nickel Index Total Return
+SG8G.IDX	S&P GSCI Non-Energy Index Excess Return
+SG8H.IDX	S&P GSCI Non-Energy Index
+SG8I.IDX	S&P GSCI Non-Energy Index Total Return
+SG8J.IDX	S&P GSCI Livestock Index Total Return
+SG9A.IDX	S&P GSCI Non-Livestock Index Excess Return
+SG9B.IDX	S&P GSCI Non-Livestock Index Total Return
+SG9C.IDX	S&P GSCI Non-Natural Gas Index
+SG9D.IDX	S&P GSCI Non-Natural Gas Index Excess Return
+SG9E.IDX	S&P GSCI Non-Natural Gas Index Total Return
+SG9F.IDX	S&P GSCI Non-Precious Index
+SG9G.IDX	S&P GSCI Non-Precious Index Excess Return
+SG9H.IDX	S&P GSCI Non-Precious Index Total Return
+SG9I.IDX	S&P GSCI Petroleumex-Gas Oil Index
+SG9J.IDX	S&P GSCI Non-Livestock Index
+SGAA.IDX	S&P Global Agribusiness Composite Index USD
+SGAB.IDX	S&P Global Agribusiness Composite Index EUR
+SGAC.IDX	S&P Global Agribusiness Equity Index
+SGAD.IDX	S&P Global Agribusiness Equity Index [EURO]
+SGCC.IDX	S&P GSCI Capped Commodity 35/20 Index
+SGCR.IDX	S&P GSCI All Metals Capped Index Excess Return
+SGDO.IDX	S&P Global Dividend Opportunities Index
+SGIA.IDX	S&P North American Natural Resources Sector Inde
+SGIB.IDX	S&P North American Technology Sector Index
+SGID.IDX	S&P North American Technology Software Index
+SGIF.IDX	S&P North American Technology Multimedia Network
+SGIR.IDX	S&P GSCI All Metals Index Excess Return
+SGJ.IDX	S&P GSCI Energy
+SGK.IDX	S&P GSCI Agriculture
+SGLN.IDX	SGI Global Security Index [EURO] [TR]
+SGMA.IDX	S&P GSCI All Metals Index
+SGON.IDX	S&P Global Dividend Opportunities Index [NetTR]
+SGP.IDX	S&P GSCI Precious Metals
+SGPA.IDX	S&P GSCI All Metals Capped Index
+SGPG.IDX	S&P GSCI Agriculture Capped Index
+SGPP.IDX	S&P GSCI Capped Commodity 35/20 Index Excess Ret
+SGPR.IDX	S&P GSCI Agriculture Capped Index Total Return
+SGPT.IDX	S&P GSCI Capped Commodity 35/20 Index Total Retu
+SGQA.IDX	S&P GSCI Petroleumex-Gas Oil Index Total Return
+SGQB.IDX	S&P GSCI Petroleum Index
+SGQC.IDX	S&P GSCI Petroleum Index Excess Return
+SGQD.IDX	S&P GSCI Petroleum Index Total Return
+SGQE.IDX	S&P GSCI Precious Metals Index Excess Return
+SGQF.IDX	S&P GSCI Precious Metals Index Total Return
+SGQG.IDX	S&P GSCI Reduced Energy Index [CPW2]
+SGQH.IDX	S&P GSCI Reduced Energy Index [CPW2] Excess Retu
+SGQI.IDX	S&P GSCI Reduced Energy Index [CPW2] Total Retur
+SGQJ.IDX	S&P GSCI Petroleumex GasOil Index Excess Return
+SGRC.IDX	S&P GSCI All Metals Capped Commodity 35/20 EUR I
+SGRE.IDX	S&P GSCI All Metals Capped Commodity 35/20 EUR I
+SGRG.IDX	S&P GSCI Agriculture Capped Index Excess Return
+SGRM.IDX	Cohen & Steers Global Realty Majors Portfolio [T
+SGRT.IDX	S&P GSCI Agriculture Capped Component 35/20 EUR
+SGSA.IDX	S&P GSCI Silver Index
+SGSB.IDX	S&P GSCI Silver Index Excess Return
+SGSC.IDX	S&P GSCI Silver Index Total Return
+SGSD.IDX	S&P GSCI Soybeans Index
+SGSE.IDX	S&P GSCI Excess Return
+SGSF.IDX	S&P GSCI Soybeans Index Excess Return
+SGSG.IDX	S&P GSCI Soybeans Index Total Return
+SGSH.IDX	S&P GSCI Sugar Index
+SGSJ.IDX	S&P GSCI Sugar Index Excess Return
+SGSK.IDX	S&P GSCI Sugar Index Total Return
+SGSM.IDX	S&P GSCI Ultra-Light Energy Index [CPW8] Excess
+SGSN.IDX	S&P GSCI Ultra-Light Energy Index [CPW8] Total R
+SGSO.IDX	S&P GSCI Unleaded Gasoline Index
+SGSP.IDX	S&P GSCI Unleaded Gasoline Index Excess Return
+SGSQ.IDX	S&P GSCI Unleaded Gasoline Index Total Return
+SGSR.IDX	S&P GSCI Wheat Index
+SGSS.IDX	S&P GSCI Wheat Index Excess Return
+SGST.IDX	S&P GSCI Wheat Index Total Return
+SGSU.IDX	S&P GSCI Zinc Index
+SGSV.IDX	S&P GSCI Zinc Index Excess Return
+SGSW.IDX	S&P GSCI Zinc Index Total Return
+SGSX.IDX	S&P GSCI Ultra-LightEnergyIndex [CPW8]
+SGT.IDX	S&P GSCI Total Return
+SGTR.IDX	S&P GSCI All Metals Capped Index Total Return
+SGV.IDX	CASINO GAMING
+SGWT.IDX	S&P GSCI Select Equal Weight Index Tr
+SGX.IDX	S&P GSCI FPI Index
+SGY.IDX	S&P GSCI Industrial Metals
+SHTR.IDX	S&P 500 HealthCare Equipment & Services [TR]
+SIDO.IDX	S&P International Dividend Opportunities Index
+SIFD.IDX	S&P Industrials Stocks Above 5-Day Average
+SIFI.IDX	S&P Industrials Stocks Above 50-Day Average
+SIIP.IDX	S&P DFFI Index Excess Return
+SIIS.IDX	S&P DFFI Index
+SIIT.IDX	S&P DFFI Index Total Return
+SIOF.IDX	S&P Industrials Stocks Above 150-Day Average
+SIOH.IDX	S&P Industrials Stocks Above 100-Day Average
+SIRP.IDX	Cohen & Steers International Realty Majors Portf
+SITH.IDX	S&P Industrials Stocks Above 200-Day Average
+SITR.IDX	S&P 500 Insurance [TR]
+SITW.IDX	S&P Industrials Stocks Above 20-Day Average
+SIUT.IDX	S&P 500 2x Inverse Daily Index
+SJPA.IDX	S&P Japan 500
+SJPB.IDX	S&P Japan Mid Cap 100
+SJPC.IDX	S&P Japan Small Cap 250 Index
+SJPD.IDX	S&P TOPIX YEN
+SJRI.IDX	S&P Japan Regional Index-Tokai
+SJTR.IDX	S&P 500 Semiconductors & Semiconductor Equipment
+SKFD.IDX	S&P Info Tech Stocks Above 5-Day Average
+SKFI.IDX	S&P Info Tech Stocks Above 50-Day Average
+SKOF.IDX	S&P Info Tech Stocks Above 150-Day Average
+SKOH.IDX	S&P Info Tech Stocks Above 100-Day Average
+SKTH.IDX	S&P Info Tech Stocks Above 200-Day Average
+SKTR.IDX	S&P 500 Materials [TR]
+SKTW.IDX	S&P Info Tech Stocks Above 20-Day Average
+SLAC.IDX	S&P LAC40 [US$] [EURO] [NetTR]
+SLCN.IDX	S&P US Carbon Efficient Index U.S. Carbci Index
+SLCT.IDX	S&P U.S. Carbon Efficient Index [TR]
+SLCU.IDX	S&P U.S. Carbon Efficient Index [NetTR]
+SLEE.IDX	S&P GSCI Light Energy EUR Index
+SLER.IDX	S&P GSCI Light Energy EUR Index ER
+SLEW.IDX	S&P 600 Smallcap Equal Weighted Index
+SLFD.IDX	S&P Telecom Srvs Stocks Above 5-Day Average
+SLFI.IDX	S&P Telecom Srvs Stocks Above 50-Day Average
+SLOF.IDX	S&P Telecom Srvs Stocks Above 150-Day Average
+SLOH.IDX	S&P Telecom Srvs Stocks Above 100-Day Average
+SLPE.IDX	Global Listed Private Equity Index
+SLRT.IDX	S&P GSCI Light Energy EUR Index TR
+SLTH.IDX	S&P Telecom Srvs Stocks Above 200-Day Average
+SLTW.IDX	S&P Telecom Srvs Stocks Above 20-Day Average
+SLUN.IDX	S&P 500 2x Leverage Daily Index
+SML.IDX	S&P Small Caps 600 Index
+SMRW.IDX	Revenue Shares MidCap Fund
+SMTR.IDX	S&P GSCI All Metals Index Total Return
+SNCH.IDX	Next 11 Core 8 Index
+SNCT.IDX	Next 11 Core 8 Index [TR]
+SNER.IDX	S&P GSCI Non-Energy EUR IndexER
+SNNE.IDX	S&P Global Infrastructure Index [EURO] [NetTR]
+SNNT.IDX	S&P Global Infrastructure Index [NetTR]
+SNRE.IDX	S&P Global Natural Resources Index [EURO]
+SNRT.IDX	S&P GSCI Non-Energy EUR Index TR
+SNRU.IDX	S&P Global Natural Resources Index
+SNTE.IDX	Next 11 Core 5 Index [TR]
+SNUI.IDX	S&P GSCI Non-Energy EUR Index
+SP500.IDX	S&P 500
+SPAA.IDX	SGI Pan Africa Index [NetTR] Panri Indexet
+SPAB.IDX	SGI Pan Africa Index [EURO] [NetTR]
+SPAC.IDX	SGI Pan Africa Index
+SPAD.IDX	S&P GSCI Palladium Index
+SPEE.IDX	S&P Listed Private Equity Index [EURO]
+SPER.IDX	S&P GSCI Palladium Index Excess Return
+SPEY.IDX	S&P Listed Private Equity Index
+SPFD.IDX	S&P Con Staples Stocks Above 5-Day Average
+SPFI.IDX	S&P Con Staples Stocks Above 50-Day Average
+SPIN.IDX	S&P GSCI Platinum Index
+SPIR.IDX	S&P GSCI Platinum Index Excess Return
+SPK.IDX	Spike Index
+SPLR.IDX	S&P GSCI Platinum Index Total Return
+SPOF.IDX	S&P Con Staples Stocks Above 150-Day Average
+SPOH.IDX	S&P Con Staples Stocks Above 100-Day Average
+SPPR.IDX	S&P International Preferred Stock Index
+SPRL.IDX	SGI Premium List [NetTR]
+SPRT.IDX	S&P GSCI Palladium Index Total Return
+SPTH.IDX	S&P Con Staples Stocks Above 200-Day Average
+SPTW.IDX	S&P Con Staples Stocks Above 20-Day Average
+SPUS.IDX	S&P  Global Ex-U.S. Property [US Dollar]
+SPXT.IDX	S&P 500 [TR]
+SQTR.IDX	S&P 500 Software & Services [TR]
+SRFI.IDX	S&P 500 Financials [Sector]
+SRIC.IDX	S&P BRIC 40 Index [NetTR]
+SRIE.IDX	S&P BRIC 40 Index [EURO] [NetTR]
+SRMP.IDX	Cohen & Steers US Realty Majors Portfolio [TR]
+SRPR.IDX	S&P Global REIT [USD]
+SRTR.IDX	S&P 500 Real Estate [TR]
+SRWI.IDX	Revenue Shares Large Cap Fund
+SS1E.IDX	S&P 500 EQUAL WEIGHTED Materials [Sector]
+SS1J.IDX	S&P 500 EQUAL WEIGHTED Energy [Sector]
+SS2E.IDX	S&P 500 EQUAL WEIGHTED Consumer Discretionary [S
+SS2J.IDX	S&P 500 EQUAL WEIGHTED Industrials [Sector]
+SS3E.IDX	S&P 500 EQUAL WEIGHTED HealthCare [Sector]
+SS3J.IDX	S&P 500 EQUAL WEIGHTED Consumer Staples [Sector]
+SS4E.IDX	S&P 500 EQUAL WEIGHTED Information Technology [S
+SS4J.IDX	S&P 500 EQUAL WEIGHTED Financials [Sector]
+SS5E.IDX	S&P 500 EQUAL WEIGHTED Utilities [Sector]
+SS5J.IDX	S&P 500 EQUAL WEIGHTED Telecommunication Service
+SSAE.IDX	S&P Southeast Asia 40 Index [EURO]
+SSAI.IDX	S&P Southeast Asia 40 Index [EURO] [NetTR]
+SSAU.IDX	S&P Southeast Asia 40 Index
+SSAX.IDX	S&P Asia50
+SSBE.IDX	S&P BRIC 40 Index [EURO]
+SSBR.IDX	S&P BRIC 40 Index
+SSCA.IDX	S&P Asia Pacific Emerging BMI [USDollar]
+SSCB.IDX	S&P Mid-East and Africa BMI [USDollar]
+SSCE.IDX	S&P /Citigroup BMI EPAC Index
+SSCH.IDX	S&P China BMI [USDollar]
+SSCK.IDX	S&P EM BMI [USDollar]
+SSCL.IDX	S&P Latin America BMI [USDollar]
+SSCM.IDX	Schwab 1000 Index
+SSCP.IDX	S&P /Citigroup BMI Asia Pacific Index
+SSCQ.IDX	S&P European Emerging BMI [CAPPED] [USDollar]
+SSCS.IDX	S&P Developed Ex US Under USD 2 Billion [USDolla
+SSCU.IDX	S&P /Citigroup BMI Europe Index
+SSCW.IDX	S&P Developed Ex-U.S.BMI [USDollar]
+SSDI.IDX	S&P 500 Dividend Index
+SSEW.IDX	S&P GSCI Select Equal Weight Index Spot
+SSFD.IDX	S&P Real Estate Stocks Above 5-Day Average
+SSFI.IDX	S&P Real Estate Stocks Above 50-Day Average
+SSGC.IDX	S&P GSCI Enhanced Capped Index
+SSGD.IDX	S&P GLOBAL1200-Consumer Discretionary [Sector]
+SSGE.IDX	S&P GLOBAL1200-Energy [Sector]
+SSGF.IDX	S&P GLOBAL1200-Financials [Sector]
+SSGH.IDX	S&P GLOBAL1200-HealthCare [Sector]
+SSGI.IDX	S&P GLOBAL1200-Information Technology [Sector]
+SSGL.IDX	S&P GLOBAL1200
+SSGM.IDX	S&P GLOBAL1200-Materials [Sector]
+SSGN.IDX	S&P GLOBAL1200-Industrials [Sector]
+SSGO.IDX	S&P GSCI E27 WTI Index
+SSGP.IDX	S&P GSCI Enhanced Capped Index Excess Return
+SSGR.IDX	S&P GSCI Enhanced Capped Index Total Return
+SSGS.IDX	S&P GLOBAL1200-Consumer Staples [Sector]
+SSGT.IDX	S&P GLOBAL1200-Telecommunication Services [Secto
+SSGU.IDX	S&P GLOBAL1200-Utilities [Sector]
+SSGX.IDX	S&P GSCI E27WTI Index Excess Return
+SSGZ.IDX	S&P GSCI E27WTI Index Total Return
+SSHE.IDX	S&P Europe 350 Shariah Index
+SSHJ.IDX	S&P Japan 500 Shariah Index
+SSHX.IDX	S&P 500 Shariah Index
+SSIA.IDX	Credit Suisse Social Awareness Index
+SSIB.IDX	S&P GSCI Softs Index Excess Return
+SSIC.IDX	S&P GSCI Softs Index Total Return
+SSIP.IDX	S&P DFI Index Excess Return
+SSIS.IDX	S&P DFI Index
+SSIT.IDX	S&P DFI Index Total Return
+SSLF.IDX	S&P Select Frontier Index
+SSLS.IDX	S&P Custom/BNP Paribas-SPECTRUM [GRIPTEST]
+SSMI.IDX	Swiss Market
+SSNI.IDX	SGI Global Nanotechnology Index [NetTR]
+SSOF.IDX	S&P Real Estate Stocks Above 150-Day Average
+SSOH.IDX	S&P Real Estate Stocks Above 100-Day Average
+SSPA.IDX	S&P ADR Index
+SSPE.IDX	S&P EUROPE 350
+SSPF.IDX	S&P EUROPE 350 - Financials [Sector]
+SSPI.IDX	S&P EUROPE 350 - Information Technology [Sector]
+SSPL.IDX	S&P 500Telecom&IT
+SSPN.IDX	S&P 500Energy[Sector]
+SSPT.IDX	S&P EUROPE 350 - Telecommunication Services [Sec
+SSPU.IDX	S&P EURO
+SSRF.IDX	S&P Preferred Stock Index
+SSRW.IDX	Revenue Shares Small Cap Fund
+SSTH.IDX	S&P Real Estate Stocks Above 200-Day Average
+SSTU.IDX	S&P 500 EQUAL WEIGHTED Utilities & Telecommunica
+SSTW.IDX	S&P Real Estate Stocks Above 20-Day Average
+SSUC.IDX	S&P GSCI Capped Component 35/20 Index
+SSUP.IDX	S&P GSCI Capped Component 35/20 Index Excess Ret
+SSUT.IDX	S&P GSCI Capped Component 35/20 Index Total Retu
+SSWP.IDX	S&P GSCI Select Equal Weight Index Er
+STCE.IDX	S&P Global Clean Energy Index [EURO]
+STCL.IDX	S&P Global Clean Energy Index
+STFE.IDX	S&P Global Timber and Forestry Index [EURO]
+STFU.IDX	S&P Global Timber and Forestry Index
+STI.IDX	STI Index
+STIF.IDX	S&P Global Infrastructure Index [EURO]
+STIL.IDX	SGI Smart WTI Long Invest Index [NEWVA]
+STIR.IDX	S&P Global Infrastructure Index
+STMP.IDX	Tortoise MLP Index
+STRA.IDX	S&P Target Risk Aggressive Index
+STRB.IDX	S&P Target Risk Moderate Index
+STRC.IDX	S&P Target Risk Growth Index
+STRD.IDX	S&P Target Risk Conservative Index
+STRL.IDX	S&P LAC40 [US$] [NetTR]
+STRN.IDX	S&P 500 [NetTR]
+STRS.IDX	S&P 500 TR Short
+STRT.IDX	S&P 500 Telecommunication Services [TR]
+STRU.IDX	S&P 500 Household & Personal Products [TR]
+STSI.IDX	SGI Smart WTI Short Invest Index [NEWVA]
+STSU.IDX	S&P TOP IX150 Shariah [USD]
+STSY.IDX	S&P TOP IX150 Shariah
+STTR.IDX	S&P 500 Technology Hardware & Equipment [TR]
+SUCD.IDX	S&P Select Sector Capped 20% Consumer Discretion
+SUCS.IDX	S&P Select Sector Capped 20% Consumer Staples In
+SUEP.IDX	S&P Select Sector Capped 20% Energy Index Net TR
+SUFD.IDX	S&P Utilities Stocks Above 5-Day Average
+SUFI.IDX	S&P Utilities Stocks Above 50-Day Average
+SUFP.IDX	S&P Select Sector Capped 20% Financials Index Ne
+SUHC.IDX	S&P Select Sector Capped 20% HealthCare Index Ne
+SUIP.IDX	S&P Select Sector Capped 20% Industrials Index N
+SUJP.IDX	S&P Mitsubishi Corporate Group Index
+SUKP.IDX	S&P United Kingdom [PDS]
+SUKS.IDX	S&P United Kingdom [USD]
+SUMI.IDX	S&P Select Sector Capped 20% Materials Index Net
+SUNI.IDX	MAC GLOBAL SOLAR INDEX
+SUOF.IDX	S&P Utilities Stocks Above 150-Day Average
+SUOH.IDX	S&P Utilities Stocks Above 100-Day Average
+SUPI.IDX	S&P Select Sector Capped 20% Utilities Index Net
+SURI.IDX	S&P /Citigroup BMI REIT SUS Index
+SUTH.IDX	S&P Utilities Stocks Above 200-Day Average
+SUTP.IDX	S&P Select Sector Capped 20% Technology Index Ne
+SUTW.IDX	S&P Utilities Stocks Above 20-Day Average
+SVFD.IDX	S&P Health Care Stocks Above 5-Day Average
+SVFI.IDX	S&P Health Care Stocks Above 50-Day Average
+SVOF.IDX	S&P Health Care Stocks Above 150-Day Average
+SVOH.IDX	S&P Health Care Stocks Above 100-Day Average
+SVTH.IDX	S&P Health Care Stocks Above 200-Day Average
+SVTR.IDX	Next 11 Vietnam [TotalReturn] Index
+SVTW.IDX	S&P Health Care Stocks Above 20-Day Average
+SW0B.IDX	S&P Developed Ex-U.S.BMI [Capped] Energy
+SW0C.IDX	S&P Developed Ex-U.S.BMI [Capped] Materials
+SW0D.IDX	S&P Developed Ex-U.S.BMI [Capped] Industrials
+SW0E.IDX	S&P Developed Ex-U.S.BMI [Capped] Consumer Discr
+SW0F.IDX	S&P Developed Ex-U.S.BMI [Capped] Consumer Stapl
+SW0G.IDX	S&P Developed Ex-U.S.BMI [Capped] HealthCare
+SW0H.IDX	S&P Developed Ex-U.S.BMI [Capped] Financials
+SW0I.IDX	S&P Developed Ex-U.S.BMI [Capped] Information Te
+SW1A.IDX	S&P Developed Ex-U.S.BMI [Capped] Utilities
+SW1B.IDX	S&P Developed Ex-U.S.Cap Range Companies Between
+SW1C.IDX	S&P Emerging Under USD 2 Billion
+SW1J.IDX	S&P Developed Ex-U.S.BMI [Capped] Telecommunicat
+SWFD.IDX	S&P 500 Value Stocks Above 5-Day Average
+SWFI.IDX	S&P 500 Value Stocks Above 50-Day Average
+SWIB.IDX	SGI Wise Bottom
+SWOF.IDX	S&P 500 Value Stocks Above 150-Day Average
+SWOH.IDX	S&P 500 Value Stocks Above 100-Day Average
+SWTH.IDX	S&P 500 Value Stocks Above 200-Day Average
+SWTW.IDX	S&P 500 Value Stocks Above 20-Day Average
+SXTR.IDX	S&P 500 Utilities [Industry Group] [TR]
+SYFD.IDX	S&P Consumer Disc Stocks Above 5-Day Average
+SYFI.IDX	S&P Consumer Disc Stocks Above 50-Day Average
+SYOF.IDX	S&P Consumer Disc Stocks Above 150-Day Average
+SYOH.IDX	S&P Consumer Disc Stocks Above 100-Day Average
+SYTH.IDX	S&P Consumer Disc Stocks Above 200-Day Average
+SYTR.IDX	S&P 500 Transportation [Industry Group] [TR]
+SYTW.IDX	S&P Consumer Disc Stocks Above 20-Day Average
+SZFD.IDX	S&P 500 Growth Stocks Above 5-Day Average
+SZFI.IDX	S&P 500 Growth Stocks Above 50-Day Average
+SZOF.IDX	S&P 500 Growth Stocks Above 150-Day Average
+SZOH.IDX	S&P 500 Growth Stocks Above 100-Day Average
+SZTH.IDX	S&P 500 Growth Stocks Above 200-Day Average
+SZTR.IDX	S&P 500 Retailing [Industry Group] [TR]
+SZTW.IDX	S&P 500 Growth Stocks Above 20-Day Average
+TACK.IDX	AMEX Tick
+TACX.IDX	AMEX Tick
+TICK.IDX	NYSE Tick
+TICX.IDX	NYSE Tick
+TQCK.IDX	NASD Tick
+TQCX.IDX	NASD Tick
+TRIA.IDX	AMEX Trin
+TRIN.IDX	NYSE Trin
+TRIQ.IDX	NASD Trin
+TWII.IDX	Taiwan Weighted Index
+UNCA.IDX	AMEX Unchanged Stocks
+UNCC.IDX	CSE Unchanged Stocks
+UNCE.IDX	ETFS Unchanged Stocks
+UNCN.IDX	NYSE Unchanged Stocks
+UNCQ.IDX	NASD Unchanged Stocks
+UNCS.IDX	TSX Unchanged Stocks
+UNCT.IDX	Total Unchanged Stocks
+UNCU.IDX	OTC US Unchanged Stocks
+UNCV.IDX	TSXV Unchanged Stocks
+UNCX.IDX	CAD Total Unchanged Stocks
+UOI.IDX	US Oil Iopv
+UTY.IDX	Phlx Utility Index
+UVCA.IDX	AMEX Unchanged Volume
+UVCC.IDX	CSE Unchanged Volume
+UVCE.IDX	ETFS Unchanged Volume
+UVCN.IDX	NYSE Unchanged Volume
+UVCQ.IDX	NASD Unchanged Volume
+UVCS.IDX	TSX Unchanged Volume
+UVCT.IDX	Total Unchanged Volume
+UVCU.IDX	OTC US Unchanged Volume
+UVCV.IDX	TSXV Unchanged Volume
+UVCX.IDX	CAD Total Unchanged Volume
+VLA.IDX	Value Line Index
+VLG.IDX	Value Line Geometric
+VSPK.IDX	Vspike Index
+XAU.IDX	Phlx Gold Silver Index
+XAX.IDX	AMEX Composite Index
+XDA.IDX	PHLX AUS DOLLAR
+XDB.IDX	PHLX BRITISH POUND
+XDC.IDX	PHLX CAN DOLLAR
+XDE.IDX	PHLX EURO INDEX
+XDN.IDX	PHLX JAPAN YEN
+XDS.IDX	PHLX SWISS FRANC
+XDZ.IDX	NEW ZEALAND WCO
+XOI.IDX	AMEX Oil Index
+Y0FD.IDX	TSX Venture Stocks Above 5-Day Average
+Y0FI.IDX	TSX Venture Stocks Above 50-Day Average
+Y0OF.IDX	TSX Venture Stocks Above 150-Day Average
+Y0OH.IDX	TSX Venture Stocks Above 100-Day Average
+Y0TH.IDX	TSX Venture Stocks Above 200-Day Average
+Y0TW.IDX	TSX Venture Stocks Above 20-Day Average
+Y1FD.IDX	TSX Income Trust Stocks Above 5-Day Average
+Y1FI.IDX	TSX Income Trust Stocks Above 50-Day Average
+Y1OF.IDX	TSX Income Trust Stocks Above 150-Day Average
+Y1OH.IDX	TSX Income Trust Stocks Above 100-Day Average
+Y1TH.IDX	TSX Income Trust Stocks Above 200-Day Average
+Y1TW.IDX	TSX Income Trust Stocks Above 20-Day Average
+Y2FD.IDX	TSX REIT Capped Stocks Above 5-Day Average
+Y2FI.IDX	TSX REIT Capped Stocks Above 50-Day Average
+Y2OF.IDX	TSX REIT Capped Stocks Above 150-Day Average
+Y2OH.IDX	TSX REIT Capped Stocks Above 100-Day Average
+Y2TH.IDX	TSX REIT Capped Stocks Above 200-Day Average
+Y2TW.IDX	TSX REIT Capped Stocks Above 20-Day Average
+Y3FD.IDX	TSX American Pref Stocks Above 5-Day Average
+Y3FI.IDX	TSX American Pref Stocks Above 50-Day Average
+Y3OF.IDX	TSX American Pref Stocks Above 150-Day Average
+Y3OH.IDX	TSX American Pref Stocks Above 100-Day Average
+Y3TH.IDX	TSX American Pref Stocks Above 200-Day Average
+Y3TW.IDX	TSX American Pref Stocks Above 20-Day Average
+Y5FD.IDX	TSX Capped Comp Stocks Above 5-Day Average
+Y5FI.IDX	TSX Capped Comp Stocks Above 50-Day Average
+Y5OF.IDX	TSX Capped Comp Stocks Above 150-Day Average
+Y5OH.IDX	TSX Capped Comp Stocks Above 100-Day Average
+Y5TH.IDX	TSX Capped Comp Stocks Above 200-Day Average
+Y5TW.IDX	TSX Capped Comp Stocks Above 20-Day Average
+Y6FD.IDX	TSX Con Disc Stocks Above 5-Day Average
+Y6FI.IDX	TSX Con Disc Stocks Above 50-Day Average
+Y6OF.IDX	TSX Con Disc Stocks Above 150-Day Average
+Y6OH.IDX	TSX Con Disc Stocks Above 100-Day Average
+Y6TH.IDX	TSX Con Disc Stocks Above 200-Day Average
+Y6TW.IDX	TSX Con Disc Stocks Above 20-Day Average
+Y7FD.IDX	TSX Con Staples Stocks Above 5-Day Average
+Y7FI.IDX	TSX Con Staples Stocks Above 50-Day Average
+Y7OF.IDX	TSX Con Staples Stocks Above 150-Day Average
+Y7OH.IDX	TSX Con Staples Stocks Above 100-Day Average
+Y7TH.IDX	TSX Con Staples Stocks Above 200-Day Average
+Y7TW.IDX	TSX Con Staples Stocks Above 20-Day Average
+Y8FD.IDX	TSX Energy Stocks Above 5-Day Average
+Y8FI.IDX	TSX Energy Stocks Above 50-Day Average
+Y8OF.IDX	TSX Energy Stocks Above 150-Day Average
+Y8OH.IDX	TSX Energy Stocks Above 100-Day Average
+Y8TH.IDX	TSX Energy Stocks Above 200-Day Average
+Y8TW.IDX	TSX Energy Stocks Above 20-Day Average
+Y9FD.IDX	TSX Financials Stocks Above 5-Day Average
+Y9FI.IDX	TSX Financials Stocks Above 50-Day Average
+Y9OF.IDX	TSX Financials Stocks Above 150-Day Average
+Y9OH.IDX	TSX Financials Stocks Above 100-Day Average
+Y9TH.IDX	TSX Financials Stocks Above 200-Day Average
+Y9TW.IDX	TSX Financials Stocks Above 20-Day Average
+YAFD.IDX	TSX Global Gold Stocks Above 5-Day Average
+YAFI.IDX	TSX Global Gold Stocks Above 50-Day Average
+YAOF.IDX	TSX Global Gold Stocks Above 150-Day Average
+YAOH.IDX	TSX Global Gold Stocks Above 100-Day Average
+YATH.IDX	TSX Global Gold Stocks Above 200-Day Average
+YATW.IDX	TSX Global Gold Stocks Above 20-Day Average
+YBFD.IDX	TSX Health Care Stocks Above 5-Day Average
+YBFI.IDX	TSX Health Care Stocks Above 50-Day Average
+YBOF.IDX	TSX Health Care Stocks Above 150-Day Average
+YBOH.IDX	TSX Health Care Stocks Above 100-Day Average
+YBTH.IDX	TSX Health Care Stocks Above 200-Day Average
+YBTW.IDX	TSX Health Care Stocks Above 20-Day Average
+YCFD.IDX	TSX Industrials Stocks Above 5-Day Average
+YCFI.IDX	TSX Industrials Stocks Above 50-Day Average
+YCOF.IDX	TSX Industrials Stocks Above 150-Day Average
+YCOH.IDX	TSX Industrials Stocks Above 100-Day Average
+YCTH.IDX	TSX Industrials Stocks Above 200-Day Average
+YCTW.IDX	TSX Industrials Stocks Above 20-Day Average
+YDFD.IDX	TSX Materials Stocks Above 5-Day Average
+YDFI.IDX	TSX Materials Stocks Above 50-Day Average
+YDOF.IDX	TSX Materials Stocks Above 150-Day Average
+YDOH.IDX	TSX Materials Stocks Above 100-Day Average
+YDTH.IDX	TSX Materials Stocks Above 200-Day Average
+YDTW.IDX	TSX Materials Stocks Above 20-Day Average
+YEFD.IDX	TSX Real Estate Stocks Above 5-Day Average
+YEFI.IDX	TSX Real Estate Stocks Above 50-Day Average
+YEOF.IDX	TSX Real Estate Stocks Above 150-Day Average
+YEOH.IDX	TSX Real Estate Stocks Above 100-Day Average
+YETH.IDX	TSX Real Estate Stocks Above 200-Day Average
+YETW.IDX	TSX Real Estate Stocks Above 20-Day Average
+YFFD.IDX	TSX Info Tech Stocks Above 5-Day Average
+YFFI.IDX	TSX Info Tech Stocks Above 50-Day Average
+YFOF.IDX	TSX Info Tech Stocks Above 150-Day Average
+YFOH.IDX	TSX Info Tech Stocks Above 100-Day Average
+YFTH.IDX	TSX Info Tech Stocks Above 200-Day Average
+YFTW.IDX	TSX Info Tech Stocks Above 20-Day Average
+YGFD.IDX	TSX Telecom Srvs Stocks Above 5-Day Average
+YGFI.IDX	TSX Telecom Srvs Stocks Above 50-Day Average
+YGOF.IDX	TSX Telecom Srvs Stocks Above 150-Day Average
+YGOH.IDX	TSX Telecom Srvs Stocks Above 100-Day Average
+YGTH.IDX	TSX Telecom Srvs Stocks Above 200-Day Average
+YGTW.IDX	TSX Telecom Srvs Stocks Above 20-Day Average
+YHFD.IDX	TSX Utilities Stocks Above 5-Day Average
+YHFI.IDX	TSX Utilities Stocks Above 50-Day Average
+YHOF.IDX	TSX Utilities Stocks Above 150-Day Average
+YHOH.IDX	TSX Utilities Stocks Above 100-Day Average
+YHTH.IDX	TSX Utilities Stocks Above 200-Day Average
+YHTW.IDX	TSX Utilities Stocks Above 20-Day Average
+YIFD.IDX	TSX Buyback Stocks Above 5-Day Average
+YIFI.IDX	TSX Buyback Stocks Above 50-Day Average
+YIOF.IDX	TSX Buyback Stocks Above 150-Day Average
+YIOH.IDX	TSX Buyback Stocks Above 100-Day Average
+YITH.IDX	TSX Buyback Stocks Above 200-Day Average
+YITW.IDX	TSX Buyback Stocks Above 20-Day Average
+YJFD.IDX	TSX G.B. Metals EW Stocks Above 5-Day Average
+YJFI.IDX	TSX G.B. Metals EW Stocks Above 50-Day Average
+YJOF.IDX	TSX G.B. Metals EW Stocks Above 150-Day Average
+YJOH.IDX	TSX G.B. Metals EW Stocks Above 100-Day Average
+YJTH.IDX	TSX G.B. Metals EW Stocks Above 200-Day Average
+YJTW.IDX	TSX G.B. Metals EW Stocks Above 20-Day Average
+YKFD.IDX	TSX G.B. Metals Stocks Above 5-Day Average
+YKFI.IDX	TSX G.B. Metals Stocks Above 50-Day Average
+YKOF.IDX	TSX G.B. Metals Stocks Above 150-Day Average
+YKOH.IDX	TSX G.B. Metals Stocks Above 100-Day Average
+YKTH.IDX	TSX G.B. Metals Stocks Above 200-Day Average
+YKTW.IDX	TSX G.B. Metals Stocks Above 20-Day Average
+YLFD.IDX	TSX Composite EW Stocks Above 5-Day Average
+YLFI.IDX	TSX Composite EW Stocks Above 50-Day Average
+YLOF.IDX	TSX Composite EW Stocks Above 150-Day Average
+YLOH.IDX	TSX Composite EW Stocks Above 100-Day Average
+YLTH.IDX	TSX Composite EW Stocks Above 200-Day Average
+YLTW.IDX	TSX Composite EW Stocks Above 20-Day Average
+YMFD.IDX	TSX Renew & Clean Stocks Above 5-Day Average
+YMFI.IDX	TSX Renew & Clean Stocks Above 50-Day Average
+YMOF.IDX	TSX Renew & Clean Stocks Above 150-Day Average
+YMOH.IDX	TSX Renew & Clean Stocks Above 100-Day Average
+YMTH.IDX	TSX Renew & Clean Stocks Above 200-Day Average
+YMTW.IDX	TSX Renew & Clean Stocks Above 20-Day Average
+YNFD.IDX	TSX Composite Stocks Above 5-Day Average
+YNFI.IDX	TSX Composite Stocks Above 50-Day Average
+YNOF.IDX	TSX Composite Stocks Above 150-Day Average
+YNOH.IDX	TSX Composite Stocks Above 100-Day Average
+YNTH.IDX	TSX Composite Stocks Above 200-Day Average
+YNTW.IDX	TSX Composite Stocks Above 20-Day Average
+YOFD.IDX	TSX Composite Divd Stocks Above 5-Day Average
+YOFI.IDX	TSX Composite Divd Stocks Above 50-Day Average
+YOOF.IDX	TSX Composite Divd Stocks Above 150-Day Average
+YOOH.IDX	TSX Composite Divd Stocks Above 100-Day Average
+YOTH.IDX	TSX Composite Divd Stocks Above 200-Day Average
+YOTW.IDX	TSX Composite Divd Stocks Above 20-Day Average
+YPFD.IDX	TSX Diver Banks EW Stocks Above 5-Day Average
+YPFI.IDX	TSX Diver Banks EW Stocks Above 50-Day Average
+YPOF.IDX	TSX Diver Banks EW Stocks Above 150-Day Average
+YPOH.IDX	TSX Diver Banks EW Stocks Above 100-Day Average
+YPTH.IDX	TSX Diver Banks EW Stocks Above 200-Day Average
+YPTW.IDX	TSX Diver Banks EW Stocks Above 20-Day Average
+YQFD.IDX	TSX Divd Aristocrats Stocks Above 5-Day Average
+YQFI.IDX	TSX Divd Aristocrats Stocks Above 50-Day Average
+YQOF.IDX	TSX Divd Aristocrats Stocks Above 150-Day Averag
+YQOH.IDX	TSX Divd Aristocrats Stocks Above 100-Day Averag
+YQTH.IDX	TSX Divd Aristocrats Stocks Above 200-Day Averag
+YQTW.IDX	TSX Divd Aristocrats Stocks Above 20-Day Average
+YRFD.IDX	TSX Comp HI Div Stocks Above 5-Day Average
+YRFI.IDX	TSX Comp HI Div Stocks Above 50-Day Average
+YROF.IDX	TSX Comp HI Div Stocks Above 150-Day Average
+YROH.IDX	TSX Comp HI Div Stocks Above 100-Day Average
+YRTH.IDX	TSX Comp HI Div Stocks Above 200-Day Average
+YRTW.IDX	TSX Comp HI Div Stocks Above 20-Day Average
+YSFD.IDX	TSX 60 EW Stocks Above 5-Day Average
+YSFI.IDX	TSX 60 EW Stocks Above 50-Day Average
+YSOF.IDX	TSX 60 EW Stocks Above 150-Day Average
+YSOH.IDX	TSX 60 EW Stocks Above 100-Day Average
+YSTH.IDX	TSX 60 EW Stocks Above 200-Day Average
+YSTW.IDX	TSX 60 EW Stocks Above 20-Day Average
+YTFD.IDX	TSX Completion Stocks Above 5-Day Average
+YTFI.IDX	TSX Completion Stocks Above 50-Day Average
+YTOF.IDX	TSX Completion Stocks Above 150-Day Average
+YTOH.IDX	TSX Completion Stocks Above 100-Day Average
+YTTH.IDX	TSX Completion Stocks Above 200-Day Average
+YTTW.IDX	TSX Completion Stocks Above 20-Day Average
+YUFD.IDX	TSX Global Gold EW Stocks Above 5-Day Average
+YUFI.IDX	TSX Global Gold EW Stocks Above 50-Day Average
+YUOF.IDX	TSX Global Gold EW Stocks Above 150-Day Average
+YUOH.IDX	TSX Global Gold EW Stocks Above 100-Day Average
+YUTH.IDX	TSX Global Gold EW Stocks Above 200-Day Average
+YUTW.IDX	TSX Global Gold EW Stocks Above 20-Day Average
+YVFD.IDX	TSX Global Mining Stocks Above 5-Day Average
+YVFI.IDX	TSX Global Mining Stocks Above 50-Day Average
+YVOF.IDX	TSX Global Mining Stocks Above 150-Day Average
+YVOH.IDX	TSX Global Mining Stocks Above 100-Day Average
+YVTH.IDX	TSX Global Mining Stocks Above 200-Day Average
+YVTW.IDX	TSX Global Mining Stocks Above 20-Day Average
+YWFD.IDX	TSX Comp HI Beta Stocks Above 5-Day Average
+YWFI.IDX	TSX Comp HI Beta Stocks Above 50-Day Average
+YWOF.IDX	TSX Comp HI Beta Stocks Above 150-Day Average
+YWOH.IDX	TSX Comp HI Beta Stocks Above 100-Day Average
+YWTH.IDX	TSX Comp HI Beta Stocks Above 200-Day Average
+YWTW.IDX	TSX Comp HI Beta Stocks Above 20-Day Average
+YYFD.IDX	TSX Industrials EW Stocks Above 5-Day Average
+YYFI.IDX	TSX Industrials EW Stocks Above 50-Day Average
+YYOF.IDX	TSX Industrials EW Stocks Above 150-Day Average
+YYOH.IDX	TSX Industrials EW Stocks Above 100-Day Average
+YYTH.IDX	TSX Industrials EW Stocks Above 200-Day Average
+YYTW.IDX	TSX Industrials EW Stocks Above 20-Day Average
+YZFD.IDX	TSX Comp Low Vol Stocks Above 5-Day Average
+YZFI.IDX	TSX Comp Low Vol Stocks Above 50-Day Average
+YZOF.IDX	TSX Comp Low Vol Stocks Above 150-Day Average
+YZOH.IDX	TSX Comp Low Vol Stocks Above 100-Day Average
+YZTH.IDX	TSX Comp Low Vol Stocks Above 200-Day Average
+YZTW.IDX	TSX Comp Low Vol Stocks Above 20-Day Average
+Z0FD.IDX	TSX Oil & Gas EW Stocks Above 5-Day Average
+Z0FI.IDX	TSX Oil & Gas EW Stocks Above 50-Day Average
+Z0OF.IDX	TSX Oil & Gas EW Stocks Above 150-Day Average
+Z0OH.IDX	TSX Oil & Gas EW Stocks Above 100-Day Average
+Z0TH.IDX	TSX Oil & Gas EW Stocks Above 200-Day Average
+Z0TW.IDX	TSX Oil & Gas EW Stocks Above 20-Day Average
+Z1FD.IDX	TSX Pref Share Stocks Above 5-Day Average
+Z1FI.IDX	TSX Pref Share Stocks Above 50-Day Average
+Z1OF.IDX	TSX Pref Share Stocks Above 150-Day Average
+Z1OH.IDX	TSX Pref Share Stocks Above 100-Day Average
+Z1TH.IDX	TSX Pref Share Stocks Above 200-Day Average
+Z1TW.IDX	TSX Pref Share Stocks Above 20-Day Average
+Z2FD.IDX	TSX 60 Capped Stocks Above 5-Day Average
+Z2FI.IDX	TSX 60 Capped Stocks Above 50-Day Average
+Z2OF.IDX	TSX 60 Capped Stocks Above 150-Day Average
+Z2OH.IDX	TSX 60 Capped Stocks Above 100-Day Average
+Z2TH.IDX	TSX 60 Capped Stocks Above 200-Day Average
+Z2TW.IDX	TSX 60 Capped Stocks Above 20-Day Average
+Z3FD.IDX	TSX 60 Index Stocks Above 5-Day Average
+Z3FI.IDX	TSX 60 Index Stocks Above 50-Day Average
+Z3OF.IDX	TSX 60 Index Stocks Above 150-Day Average
+Z3OH.IDX	TSX 60 Index Stocks Above 100-Day Average
+Z3TH.IDX	TSX 60 Index Stocks Above 200-Day Average
+Z3TW.IDX	TSX 60 Index Stocks Above 20-Day Average
+Z4FD.IDX	TSX Smallcap Stocks Above 5-Day Average
+Z4FI.IDX	TSX Smallcap Stocks Above 50-Day Average
+Z4OF.IDX	TSX Smallcap Stocks Above 150-Day Average
+Z4OH.IDX	TSX Smallcap Stocks Above 100-Day Average
+Z4TH.IDX	TSX Smallcap Stocks Above 200-Day Average
+Z4TW.IDX	TSX Smallcap Stocks Above 20-Day Average
+Z5FD.IDX	TSX Smallcap Stocks Above 5-Day Average
+Z5FI.IDX	TSX Smallcap Stocks Above 50-Day Average
+Z5OF.IDX	TSX Smallcap Stocks Above 150-Day Average
+Z5OH.IDX	TSX Smallcap Stocks Above 100-Day Average
+Z5TH.IDX	TSX Smallcap Stocks Above 200-Day Average
+Z5TW.IDX	TSX Smallcap Stocks Above 20-Day Average
+Z6FD.IDX	TSX Smallcap Select Stocks Above 5-Day Average
+Z6FI.IDX	TSX Smallcap Select Stocks Above 50-Day Average
+Z6OF.IDX	TSX Smallcap Select Stocks Above 150-Day Average
+Z6OH.IDX	TSX Smallcap Select Stocks Above 100-Day Average
+Z6TH.IDX	TSX Smallcap Select Stocks Above 200-Day Average
+Z6TW.IDX	TSX Smallcap Select Stocks Above 20-Day Average
+Z9FD.IDX	TSX 60 ESG Stocks Above 5-Day Average
+Z9FI.IDX	TSX 60 ESG Stocks Above 50-Day Average
+Z9OF.IDX	TSX 60 ESG Stocks Above 150-Day Average
+Z9OH.IDX	TSX 60 ESG Stocks Above 100-Day Average
+Z9TH.IDX	TSX 60 ESG Stocks Above 200-Day Average
+Z9TW.IDX	TSX 60 ESG Stocks Above 20-Day Average
+ZAFD.IDX	TSX 60 Carbon Stocks Above 5-Day Average
+ZAFI.IDX	TSX 60 Carbon Stocks Above 50-Day Average
+ZAOF.IDX	TSX 60 Carbon Stocks Above 150-Day Average
+ZAOH.IDX	TSX 60 Carbon Stocks Above 100-Day Average
+ZATH.IDX	TSX 60 Carbon Stocks Above 200-Day Average
+ZATW.IDX	TSX 60 Carbon Stocks Above 20-Day Average
+ZBFD.IDX	TSX Comp ESG Stocks Above 5-Day Average
+ZBFI.IDX	TSX Comp ESG Stocks Above 50-Day Average
+ZBOF.IDX	TSX Comp ESG Stocks Above 150-Day Average
+ZBOH.IDX	TSX Comp ESG Stocks Above 100-Day Average
+ZBTH.IDX	TSX Comp ESG Stocks Above 200-Day Average
+ZBTW.IDX	TSX Comp ESG Stocks Above 20-Day Average
+ZCFD.IDX	TSX Comp Carbon Stocks Above 5-Day Average
+ZCFI.IDX	TSX Comp Carbon Stocks Above 50-Day Average
+ZCOF.IDX	TSX Comp Carbon Stocks Above 150-Day Average
+ZCOH.IDX	TSX Comp Carbon Stocks Above 100-Day Average
+ZCTH.IDX	TSX Comp Carbon Stocks Above 200-Day Average
+ZCTW.IDX	TSX Comp Carbon Stocks Above 20-Day Average
